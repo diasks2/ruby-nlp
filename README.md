@@ -5,6 +5,7 @@ A collection of Natural Language Processing (NLP) Ruby libraries, tools and soft
 
 ### Categories
 
+* [APIs](#apis)
 * [Bitext Alignment](#bitext-alignment)
 * [Classification](#classification)
 * [Date and Time](#date-and-time)
@@ -16,6 +17,7 @@ A collection of Natural Language Processing (NLP) Ruby libraries, tools and soft
 * [Machine Translation](#machine-translation)
 * [Miscellaneous](#miscellaneous)
 * [Multipurpose Tools](#multipurpose-tools)
+* [Ngrams](#ngrams)
 * [Parsers](#parsers)
 * [Part-of-Speech Taggers](#part-of-speech-taggers)
 * [Readability](#readability)
@@ -23,11 +25,22 @@ A collection of Natural Language Processing (NLP) Ruby libraries, tools and soft
 * [Ruby NLP Presentations](#ruby-nlp-presentations)
 * [Sentence Segmentation](#sentence-segmentation)
 * [Stemmers](#stemmers)
+* [Stop Words](#stop-words)
 * [Summarization](#summarization)
 * [Text Extraction](#text-extraction)
 * [Text Similarity](#text-similarity)
 * [Tokenizers](#tokenizers)
 * [Word Count](#word-count)
+
+## APIs
+
+Client APIs to various 3rd party NLP services
+
+* [alchemy_api](https://github.com/dbalatero/alchemy_api) - provides a client API library for AlchemyAPI's NLP services
+* [aylien_textapi_ruby](https://github.com/AYLIEN/aylien_textapi_ruby) - AYLIEN's officially supported Ruby client library for accessing Text API
+* [napi-ruby](https://github.com/Maluuba/napi-ruby) - a simple Ruby wrapper for the Maluuba nAPI
+* [poliqarpr](https://github.com/apohllo/poliqarpr) - Ruby client for Poliqarp text corpus server
+* [wlapi](https://github.com/arbox/wlapi) - Ruby based API for the project Wortschatz Leipzig
 
 ## Bitext Alignment
 
@@ -42,6 +55,8 @@ Classification aims to assign a document or piece of text to one or more classes
 * [Classifier](https://github.com/cardmagic/classifier) - a general module to allow Bayesian and other types of classifications
 * [Latent Dirichlet Allocation](https://github.com/ealdent/lda-ruby) - used to automatically cluster documents into topics
 * [liblinear-ruby-swig](https://github.com/tomz/liblinear-ruby-swig) - Ruby interface to LIBLINEAR (much more efficient than LIBSVM for text classification and other large linear classifications)
+* [linnaeus](https://github.com/djcp/linnaeus) - a redis-backed Bayesian classifier
+* [maxent_string_classifier](https://github.com/mccraigmccraig/maxent_string_classifier) - a JRuby maximum entropy classifier for string data, based on the OpenNLP Maxent framework
 * [nbayes](https://github.com/oasic/nbayes) - a full-featured, Ruby implementation of Naive Bayes
 * [stuff-classifier](https://github.com/alexandru/stuff-classifier) - a library for classifying text into multiple categories
 
@@ -97,10 +112,16 @@ Classification aims to assign a document or piece of text to one or more classes
 
 The following are libraries that integrate multiple NLP tools or functionality.
 
+* [nlp](https://github.com/knife/nlp) - NLP tools for the Polish language
 * [NlpToolz](https://github.com/LeFnord/nlp_toolz) - Basic NLP tools, mostly based on OpenNLP, at this time sentence finder, tokenizer and POS tagger implemented, plus Berkeley Parser
 * [Open NLP (Ruby bindings)](https://github.com/louismullie/open-nlp)
 * [Stanford Core NLP (Ruby bindings)](https://github.com/louismullie/stanford-core-nlp)
 * [Treat](https://github.com/louismullie/treat) - natural language processing framework for Ruby
+
+## Ngrams
+
+* [N-Gram](https://github.com/reddavis/N-Gram) - N-Gram generator in Ruby
+* [ngram](https://github.com/tkellen/ruby-ngram) - break words and phrases into ngrams
 
 ## Parsers
 
@@ -147,6 +168,12 @@ Stemming is the term used in linguistic morphology and information retrieval to 
 * [Ruby-Stemmer](https://github.com/aurelian/ruby-stemmer) - Ruby-Stemmer exposes the SnowBall API to Ruby
 * [uea-stemmer](https://github.com/ealdent/uea-stemmer) - a conservative stemmer for search and indexing
 
+## Stop Words
+
+* [clarifier](https://github.com/meducation/clarifier)
+* [stopwords](https://github.com/brez/stopwords) - really just a list of stopwords with some helpers
+* [Stopwords Filter](https://github.com/brenes/stopwords-filter) - a very simple and naive implementation of a stopwords filter that remove a list of banned words (stopwords) from a sentence
+
 ## Summarization
 
 Automatic summarization is the process of reducing a text document with a computer program in order to create a summary that retains the most important points of the original document.
@@ -172,6 +199,8 @@ Automatic summarization is the process of reducing a text document with a comput
 
 * [Jieba](https://github.com/mimosa/jieba-jruby) - Chinese tokenizer and segmenter (jRuby)
 * [MeCab](https://github.com/markburns/mecab) - Japanese morphological analyzer [[MeCab Heroku buildpack](https://github.com/diasks2/heroku-buildpack-mecab)]
+* [NLP Pure](https://github.com/parhamr/nlp-pure) - natural language processing algorithms implemented in pure Ruby with minimal dependencies
+* [rseg](https://github.com/yzhang/rseg) - a Chinese Word Segmentation (中文分词) routine in pure Ruby
 * [thailang4r](https://github.com/veer66/thailang4r) - Thai tokenizer
 * [tiny_segmenter](https://github.com/6/tiny_segmenter) - Ruby port of TinySegmenter.js for tokenizing Japanese text
 * [tokenizer](https://github.com/arbox/tokenizer) - a simple multilingual tokenizer 

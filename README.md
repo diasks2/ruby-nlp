@@ -152,8 +152,8 @@ A natural language parser is a program that works out the grammatical structure 
 * *Natural Language Processing with Ruby* [[video ArrrrCamp 2014](https://www.youtube.com/watch?v=5u86qVh8r0M) | [video Ruby Conf India](https://www.youtube.com/watch?v=oFmy_QBQ5DU)] - [Konstantin Tennhard](https://github.com/t6d) (2014)
 * *How to parse 'go' - Natural Language Processing in Ruby* [[slides](http://www.slideshare.net/TomCartwright/natual-language-processing-in-ruby)] - [Tom Cartwright](https://github.com/tomcartwrightuk) (2013)
 * *Natural Language Processing in Ruby* [[slides](https://speakerdeck.com/brandonblack/natural-language-processing-in-ruby) | [video](http://confreaks.tv/videos/railsconf2013-natural-language-processing-with-ruby)] - [Brandon Black](https://github.com/brandonblack) (2013)
-* *Natural Language Processing with Ruby: n-grams[[tutorial](http://www.sitepoint.com/natural-language-processing-ruby-n-grams/)]
-* *A Tour Through Random Ruby [[tutorial](http://www.sitepoint.com/tour-random-ruby/)]
+* *Natural Language Processing with Ruby: n-grams*[[tutorial](http://www.sitepoint.com/natural-language-processing-ruby-n-grams/)]
+* *A Tour Through Random Ruby* [[tutorial](http://www.sitepoint.com/tour-random-ruby/)]
 
 ## Sentence Segmentation
 

@@ -34,7 +34,7 @@ A collection of Natural Language Processing (NLP) Ruby libraries, tools and soft
 
 ## APIs
 
-Client APIs to various 3rd party NLP services
+Client libraries to various 3rd party NLP API services.
 
 * [alchemy_api](https://github.com/dbalatero/alchemy_api) - provides a client API library for AlchemyAPI's NLP services
 * [aylien_textapi_ruby](https://github.com/AYLIEN/aylien_textapi_ruby) - AYLIEN's officially supported Ruby client library for accessing Text API

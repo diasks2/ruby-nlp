@@ -57,6 +57,7 @@ Classification aims to assign a document or piece of text to one or more classes
 * [liblinear-ruby-swig](https://github.com/tomz/liblinear-ruby-swig) - Ruby interface to LIBLINEAR (much more efficient than LIBSVM for text classification and other large linear classifications)
 * [linnaeus](https://github.com/djcp/linnaeus) - a redis-backed Bayesian classifier
 * [maxent_string_classifier](https://github.com/mccraigmccraig/maxent_string_classifier) - a JRuby maximum entropy classifier for string data, based on the OpenNLP Maxent framework
+* [Naive-Bayes](https://github.com/reddavis/Naive-Bayes) - simple Naive Bayes classifier
 * [nbayes](https://github.com/oasic/nbayes) - a full-featured, Ruby implementation of Naive Bayes
 * [stuff-classifier](https://github.com/alexandru/stuff-classifier) - a library for classifying text into multiple categories
 
@@ -198,6 +199,7 @@ Automatic summarization is the process of reducing a text document with a comput
 * [Going the Distance](https://github.com/schneems/going_the_distance) - contains scripts that do various distance calculations
 * [hotwater](https://github.com/colinsurprenant/hotwater) - Fast Ruby FFI string edit distance algorithms
 * [levenshtein-ffi](https://github.com/dbalatero/levenshtein-ffi) - fast string edit distance computation, using the Damerau-Levenshtein algorithm
+* [TF-IDF](https://github.com/reddavis/TF-IDF) - Term Frequency - Inverse Document Frequency in Ruby
 * [tf-idf-similarity](https://github.com/jpmckinney/tf-idf-similarity) - calculate the similarity between texts using tf*idf
 
 ## Tokenizers

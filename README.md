@@ -38,6 +38,7 @@ Client libraries to various 3rd party NLP API services.
 
 * [alchemy_api](https://github.com/dbalatero/alchemy_api) - provides a client API library for AlchemyAPI's NLP services
 * [aylien_textapi_ruby](https://github.com/AYLIEN/aylien_textapi_ruby) - AYLIEN's officially supported Ruby client library for accessing Text API
+* [biffbot](https://github.com/tevren/biffbot) - Ruby gem for [Diffbot](http://www.diffbot.com/)'s APIs that extract Articles, Products, Images, Videos, and Discussions from any web page
 * [napi-ruby](https://github.com/Maluuba/napi-ruby) - a simple Ruby wrapper for the Maluuba nAPI
 * [poliqarpr](https://github.com/apohllo/poliqarpr) - Ruby client for Poliqarp text corpus server
 * [wlapi](https://github.com/arbox/wlapi) - Ruby based API for the project Wortschatz Leipzig

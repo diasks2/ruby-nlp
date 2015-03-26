@@ -196,7 +196,7 @@ Automatic summarization is the process of reducing a text document with a comput
 
 * [FuzzyMatch](https://github.com/seamusabshere/fuzzy_match) - find a needle in a haystack based on string similarity and regular expression rules
 * [fuzzy-string-match](https://github.com/kiyoka/fuzzy-string-match) - fuzzy string matching library for ruby
-* [FuzzyTools](https://github.com/brianhempel/fuzzy_tools) - In-memory TF-IDF fuzzy document finding with a fancy default tokenizer tuned on diverse record linkage datasets for easy out-of-the-box use.
+* [FuzzyTools](https://github.com/brianhempel/fuzzy_tools) - In-memory TF-IDF fuzzy document finding with a fancy default tokenizer tuned on diverse record linkage datasets for easy out-of-the-box use
 * [Going the Distance](https://github.com/schneems/going_the_distance) - contains scripts that do various distance calculations
 * [hotwater](https://github.com/colinsurprenant/hotwater) - Fast Ruby FFI string edit distance algorithms
 * [levenshtein-ffi](https://github.com/dbalatero/levenshtein-ffi) - fast string edit distance computation, using the Damerau-Levenshtein algorithm

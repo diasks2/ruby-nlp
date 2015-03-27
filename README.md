@@ -99,8 +99,8 @@ Classification aims to assign a document or piece of text to one or more classes
 
 ## Machine Translation
 
-* [microsoft_translator](https://github.com/ikayzo/microsoft_translator) - Ruby client for the microsoft translator API 
-* [Google API Client](https://github.com/google/google-api-ruby-client) - Google API Ruby Client 
+* [microsoft_translator](https://github.com/ikayzo/microsoft_translator) - Ruby client for the microsoft translator API
+* [Google API Client](https://github.com/google/google-api-ruby-client) - Google API Ruby Client
 
 ## Miscellaneous
 
@@ -152,6 +152,7 @@ A natural language parser is a program that works out the grammatical structure 
 
 ## Ruby NLP Presentations
 
+* *Demystifying Data Science (Analyzing Conference Talks with Rails and Ngrams)* [[video RailsConf 2014](https://www.youtube.com/watch?v=2ZDCxwB29Bg) | [Repo from the Video](https://github.com/Genius/abstractogram)] - [Todd Schneider](https://github.com/toddwschneider) (2014)
 * *Natural Language Processing with Ruby* [[video ArrrrCamp 2014](https://www.youtube.com/watch?v=5u86qVh8r0M) | [video Ruby Conf India](https://www.youtube.com/watch?v=oFmy_QBQ5DU)] - [Konstantin Tennhard](https://github.com/t6d) (2014)
 * *How to parse 'go' - Natural Language Processing in Ruby* [[slides](http://www.slideshare.net/TomCartwright/natual-language-processing-in-ruby)] - [Tom Cartwright](https://github.com/tomcartwrightuk) (2013)
 * *Natural Language Processing in Ruby* [[slides](https://speakerdeck.com/brandonblack/natural-language-processing-in-ruby) | [video](http://confreaks.tv/videos/railsconf2013-natural-language-processing-with-ruby)] - [Brandon Black](https://github.com/brandonblack) (2013)
@@ -212,7 +213,7 @@ Automatic summarization is the process of reducing a text document with a comput
 * [rseg](https://github.com/yzhang/rseg) - a Chinese Word Segmentation (中文分词) routine in pure Ruby
 * [thailang4r](https://github.com/veer66/thailang4r) - Thai tokenizer
 * [tiny_segmenter](https://github.com/6/tiny_segmenter) - Ruby port of TinySegmenter.js for tokenizing Japanese text
-* [tokenizer](https://github.com/arbox/tokenizer) - a simple multilingual tokenizer 
+* [tokenizer](https://github.com/arbox/tokenizer) - a simple multilingual tokenizer
 
 ## Word Count
 

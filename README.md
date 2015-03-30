@@ -133,6 +133,7 @@ A natural language parser is a program that works out the grammatical structure 
 
 * [linkparser](https://github.com/ged/linkparser) - a Ruby binding for the Abiword version of CMU's Link Grammar, a syntactic parser of English
 * [rley](https://github.com/famished-tiger/Rley) - Ruby gem implementing a general context-free grammar parser based on Earley's algorithm
+* [Treetop](https://github.com/cjheath/treetop) - a Ruby-based parsing DSL based on parsing expression grammars
 
 ## Part-of-Speech Taggers
 
@@ -152,6 +153,7 @@ A natural language parser is a program that works out the grammatical structure 
 
 ## Ruby NLP Presentations
 
+* *Natural Language Parsing with Ruby* [[tutorial](http://blog.glaucocustodio.com/2014/11/10/natural-language-parsing-with-ruby/)] - [Glauco Custódio](https://github.com/glaucocustodio) (2014)
 * *Demystifying Data Science (Analyzing Conference Talks with Rails and Ngrams)* [[video RailsConf 2014](https://www.youtube.com/watch?v=2ZDCxwB29Bg) | [Repo from the Video](https://github.com/Genius/abstractogram)] - [Todd Schneider](https://github.com/toddwschneider) (2014)
 * *Natural Language Processing with Ruby* [[video ArrrrCamp 2014](https://www.youtube.com/watch?v=5u86qVh8r0M) | [video Ruby Conf India](https://www.youtube.com/watch?v=oFmy_QBQ5DU)] - [Konstantin Tennhard](https://github.com/t6d) (2014)
 * *How to parse 'go' - Natural Language Processing in Ruby* [[slides](http://www.slideshare.net/TomCartwright/natual-language-processing-in-ruby)] - [Tom Cartwright](https://github.com/tomcartwrightuk) (2013)

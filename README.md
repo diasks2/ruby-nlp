@@ -123,6 +123,7 @@ The following are libraries that integrate multiple NLP tools or functionality.
 * [Stanford Core NLP (Ruby bindings)](https://github.com/louismullie/stanford-core-nlp)
 * [Treat](https://github.com/louismullie/treat) - natural language processing framework for Ruby
 * [ve](https://github.com/Kimtaro/ve) - a linguistic framework that's easy to use
+* [zipf](https://github.com/pks/zipf) - a collection of various NLP tools and libraries
 
 ## Ngrams
 

@@ -153,6 +153,7 @@ A natural language parser is a program that works out the grammatical structure 
 
 ## Ruby NLP Presentations
 
+* *Exploring Natural Language Processing in Ruby* [[slides](http://www.slideshare.net/diasks2/exploring-natural-language-processing-in-ruby)] - [Kevin Dias](https://github.com/diasks2) (2015)
 * *Natural Language Parsing with Ruby* [[tutorial](http://blog.glaucocustodio.com/2014/11/10/natural-language-parsing-with-ruby/)] - [Glauco Custódio](https://github.com/glaucocustodio) (2014)
 * *Demystifying Data Science (Analyzing Conference Talks with Rails and Ngrams)* [[video RailsConf 2014](https://www.youtube.com/watch?v=2ZDCxwB29Bg) | [Repo from the Video](https://github.com/Genius/abstractogram)] - [Todd Schneider](https://github.com/toddwschneider) (2014)
 * *Natural Language Processing with Ruby* [[video ArrrrCamp 2014](https://www.youtube.com/watch?v=5u86qVh8r0M) | [video Ruby Conf India](https://www.youtube.com/watch?v=oFmy_QBQ5DU)] - [Konstantin Tennhard](https://github.com/t6d) (2014)

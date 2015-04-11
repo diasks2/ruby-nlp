@@ -24,11 +24,13 @@ A collection of Natural Language Processing (NLP) Ruby libraries, tools and soft
 * [Regular Expressions](#regular-expressions)
 * [Ruby NLP Presentations](#ruby-nlp-presentations)
 * [Sentence Segmentation](#sentence-segmentation)
+* [Speech-to-text](#speech-to-text)
 * [Stemmers](#stemmers)
 * [Stop Words](#stop-words)
 * [Summarization](#summarization)
 * [Text Extraction](#text-extraction)
 * [Text Similarity](#text-similarity)
+* [Text-to-speech](#text-to-speech)
 * [Tokenizers](#tokenizers)
 * [Word Count](#word-count)
 
@@ -172,6 +174,12 @@ Sentence segmentation (aka sentence boundary disambiguation, sentence boundary d
 * [Scapel](https://github.com/louismullie/scalpel)
 * [SRX English](https://github.com/apohllo/srx-english)
 
+## Speech-to-text
+
+* [att_speech](https://github.com/adhearsion/att_speech) - A Ruby library for consuming the AT&T Speech API for speech to text.
+* [pocketsphinx-ruby](https://github.com/watsonbox/pocketsphinx-ruby) - Ruby speech recognition with Pocketsphinx
+* [Speech2Text](https://github.com/taf2/speech2text) - using Google Speech to Text API Provide a Simple Interface to Convert Audio Files
+
 ## Stemmers
 
 Stemming is the term used in linguistic morphology and information retrieval to describe the process for reducing inflected (or sometimes derived) words to their word stem, base or root form.
@@ -209,6 +217,11 @@ Automatic summarization is the process of reducing a text document with a comput
 * [levenshtein-ffi](https://github.com/dbalatero/levenshtein-ffi) - fast string edit distance computation, using the Damerau-Levenshtein algorithm
 * [TF-IDF](https://github.com/reddavis/TF-IDF) - Term Frequency - Inverse Document Frequency in Ruby
 * [tf-idf-similarity](https://github.com/jpmckinney/tf-idf-similarity) - calculate the similarity between texts using tf*idf
+
+## Text-to-speech
+
+* [espeak-ruby](https://github.com/dejan/espeak-ruby) - small Ruby API for utilizing 'espeak' and 'lame' to create Text-To-Speech mp3 files
+* [tts](https://github.com/c2h2/tts) - a ruby gem for converting text-to-speech using google translate service
 
 ## Tokenizers
 

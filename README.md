@@ -126,7 +126,7 @@ The following are libraries that integrate multiple NLP tools or functionality.
 * [ve](https://github.com/Kimtaro/ve) - a linguistic framework that's easy to use
 * [zipf](https://github.com/pks/zipf) - a collection of various NLP tools and libraries
 
-## Named Entity Recognition (NER)
+## Named Entity Recognition
 
 * [Confidential Info Redactor](https://github.com/diasks2/confidential_info_redactor) - a Ruby gem to semi-automatically redact confidential information from a text
 * [ruby-ner](https://github.com/mblongii/ruby-ner) - named entity recognition with Stanford NER and Ruby

@@ -17,6 +17,7 @@ A collection of Natural Language Processing (NLP) Ruby libraries, tools and soft
 * [Machine Translation](#machine-translation)
 * [Miscellaneous](#miscellaneous)
 * [Multipurpose Tools](#multipurpose-tools)
+* [Named Entity Recognition](#named-entity-recognition)
 * [Ngrams](#ngrams)
 * [Parsers](#parsers)
 * [Part-of-Speech Taggers](#part-of-speech-taggers)
@@ -124,6 +125,12 @@ The following are libraries that integrate multiple NLP tools or functionality.
 * [Treat](https://github.com/louismullie/treat) - natural language processing framework for Ruby
 * [ve](https://github.com/Kimtaro/ve) - a linguistic framework that's easy to use
 * [zipf](https://github.com/pks/zipf) - a collection of various NLP tools and libraries
+
+## Named Entity Recognition (NER)
+
+* [Confidential Info Redactor](https://github.com/diasks2/confidential_info_redactor) - a Ruby gem to semi-automatically redact confidential information from a text
+* [ruby-ner](https://github.com/mblongii/ruby-ner) - named entity recognition with Stanford NER and Ruby
+* [ruby-nlp](https://github.com/tiendung/ruby-nlp) - Ruby Binding for Stanford Pos-Tagger and Name Entity Recognizer
 
 ## Ngrams
 

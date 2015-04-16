@@ -110,6 +110,7 @@ Classification aims to assign a document or piece of text to one or more classes
 
 * [gibber](https://github.com/timonv/gibber) - Gibber replaces text with nonsensical latin with a maximum size difference of +/- 30%
 * [hiatus](https://github.com/ahanba/hiatus) - a localization QA tool
+* [language_filter](https://github.com/chrisvfritz/language_filter) - a Ruby gem to detect and optionally filter multiple categories of language
 * [Naturally](https://github.com/dogweather/naturally) - Natural (version number) sorting with support for legal document numbering, college course codes, and Unicode
 * [rwordnet](https://github.com/doches/rwordnet) - a pure Ruby interface to the WordNet lexical/semantic database
 * [twitter-text](https://github.com/twitter/twitter-text/tree/master/rb) - gem that provides text processing routines for Twitter Tweets
@@ -231,6 +232,7 @@ Automatic summarization is the process of reducing a text document with a comput
 ## Text-to-Speech
 
 * [espeak-ruby](https://github.com/dejan/espeak-ruby) - small Ruby API for utilizing 'espeak' and 'lame' to create text-to-speech mp3 files
+* [Isabella](https://github.com/chrisvfritz/isabella) - a voice-computing assistant built in Ruby
 * [tts](https://github.com/c2h2/tts) - a ruby gem for converting text-to-speech using the Google translate service
 
 ## Tokenizers

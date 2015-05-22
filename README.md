@@ -210,6 +210,7 @@ Stemming is the term used in linguistic morphology and information retrieval to 
 
 Automatic summarization is the process of reducing a text document with a computer program in order to create a summary that retains the most important points of the original document.
 
+* [Epitome](https://github.com/McFreely/epitome) - A small gem to make your text shorter; an implementation of the Lexrank algorithm
 * [ots](https://github.com/deepfryed/ots) - Ruby bindings to open text summarizer
 * [summarize](https://github.com/ssoper/summarize) - Ruby C wrapper for Open Text Summarizer
 

@@ -216,7 +216,10 @@ Automatic summarization is the process of reducing a text document with a comput
 
 ## Text Extraction
 
+* [docsplit](http://documentcloud.github.io/docsplit/) - Docsplit is a command-line utility and Ruby library for splitting apart documents into their component parts
+* [rtesseract](https://github.com/dannnylo/rtesseract) - Ruby library for working with the Tesseract OCR
 * [Ruby Readability](https://github.com/cantino/ruby-readability) - a tool for extracting the primary readable content of a webpage
+* [ruby-tesseract](https://github.com/meh/ruby-tesseract-ocr) - This wrapper binds the TessBaseAPI object through ffi-inline (which means it will work on JRuby too) and then proceeds to wrap said API in a more ruby-esque Engine class
 * [Yomu](https://github.com/Erol/yomu) - a library for extracting text and metadata from files and documents using the Apache Tika content analysis toolkit
 
 ## Text Similarity

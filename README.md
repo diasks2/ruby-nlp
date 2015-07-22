@@ -73,7 +73,7 @@ Classification aims to assign a document or piece of text to one or more classes
 * [Chronic Duration](https://github.com/hpoydar/chronic_duration) - a simple Ruby natural language parser for elapsed time
 * [Kronic](https://github.com/xaviershay/kronic) - a dirt simple library for parsing and formatting human readable dates
 * [Nickel](https://github.com/iainbeeston/nickel) - extracts date, time, and message information from naturally worded text
-* [Tickle](https://github.com/yb66/tickle) - a natural language parser for recurring events.
+* [Tickle](https://github.com/yb66/tickle) - a natural language parser for recurring events
 
 ## Error Correction
 
@@ -114,8 +114,8 @@ Classification aims to assign a document or piece of text to one or more classes
 * [Naturally](https://github.com/dogweather/naturally) - Natural (version number) sorting with support for legal document numbering, college course codes, and Unicode
 * [rwordnet](https://github.com/doches/rwordnet) - a pure Ruby interface to the WordNet lexical/semantic database
 * [twitter-text](https://github.com/twitter/twitter-text/tree/master/rb) - gem that provides text processing routines for Twitter Tweets
-* [nameable](https://github.com/chorn/nameable) - A Ruby gem that provides parsing and output of person names, as well as Gender & Ethnicity matching.
-* [dialable](https://github.com/chorn/dialable) - A Ruby gem that provides parsing and output of North American Numbering Plan (NANP) phone numbers, and includes location & time zones.
+* [nameable](https://github.com/chorn/nameable) - A Ruby gem that provides parsing and output of person names, as well as Gender & Ethnicity matching
+* [dialable](https://github.com/chorn/dialable) - A Ruby gem that provides parsing and output of North American Numbering Plan (NANP) phone numbers, and includes location & time zones
 
 ## Multipurpose Tools
 

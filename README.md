@@ -58,6 +58,7 @@ Bitext alignment is the process of aligning two parallel documents on a segment 
 Classification aims to assign a document or piece of text to one or more classes or categories making it easier to manage or sort.
 
 * [Classifier](https://github.com/cardmagic/classifier) - a general module to allow Bayesian and other types of classifications
+* [classifier-reborn](https://github.com/jekyll/classifier-reborn) - (a fork of cardmagic/classifier) a general classifier module to allow Bayesian and other types of classifications
 * [Latent Dirichlet Allocation](https://github.com/ealdent/lda-ruby) - used to automatically cluster documents into topics
 * [liblinear-ruby-swig](https://github.com/tomz/liblinear-ruby-swig) - Ruby interface to LIBLINEAR (much more efficient than LIBSVM for text classification and other large linear classifications)
 * [linnaeus](https://github.com/djcp/linnaeus) - a redis-backed Bayesian classifier
@@ -167,6 +168,7 @@ A natural language parser is a program that works out the grammatical structure 
 
 ## Ruby NLP Presentations
 
+* *Machine Learning made simple with Ruby* [[tutorial](http://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/)] - [Lorenzo Masini](https://github.com/rugginoso) (2015)
 * *Using Ruby Machine Learning to Find Paris Hilton Quotes* [[tutorial](http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html)] - [Rick Carlino](https://github.com/RickCarlino) (2015)
 * *Exploring Natural Language Processing in Ruby* [[slides](http://www.slideshare.net/diasks2/exploring-natural-language-processing-in-ruby)] - [Kevin Dias](https://github.com/diasks2) (2015)
 * *Natural Language Parsing with Ruby* [[tutorial](http://blog.glaucocustodio.com/2014/11/10/natural-language-parsing-with-ruby/)] - [Glauco Custódio](https://github.com/glaucocustodio) (2014)

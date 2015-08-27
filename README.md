@@ -104,8 +104,9 @@ Classification aims to assign a document or piece of text to one or more classes
 
 ## Machine Translation
 
-* [microsoft_translator](https://github.com/ikayzo/microsoft_translator) - Ruby client for the microsoft translator API
 * [Google API Client](https://github.com/google/google-api-ruby-client) - Google API Ruby Client
+* [microsoft_translator](https://github.com/ikayzo/microsoft_translator) - Ruby client for the microsoft translator API
+* [termit](https://github.com/pawurb/termit) - Google Translate with speech synthesis in your terminal as ruby gem
 
 ## Miscellaneous
 

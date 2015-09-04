@@ -7,6 +7,7 @@ A collection of Natural Language Processing (NLP) Ruby libraries, tools and soft
 
 * [APIs](#apis)
 * [Bitext Alignment](#bitext-alignment)
+* [Chatterbot](#chatterbot)
 * [Classification](#classification)
 * [Date and Time](#date-and-time)
 * [Error Correction](#error-correction)
@@ -52,6 +53,10 @@ Client libraries to various 3rd party NLP API services.
 Bitext alignment is the process of aligning two parallel documents on a segment by segment basis. In other words, if you have one document in English and its translation in Spanish, bitext alignment is the process of matching each segment from document A with its corresponding translation in document B.
 
 * [alignment](https://github.com/bloomrain/alignment) - alignment functions for corpus linguistics (Gale-Church implementation)
+
+## Chatterbot
+
+* [Tactalk](https://github.com/tacnoman/tactalk) - gem to make a chatterbot using ruby.
 
 ## Classification
 

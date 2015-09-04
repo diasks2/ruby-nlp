@@ -56,7 +56,9 @@ Bitext alignment is the process of aligning two parallel documents on a segment 
 
 ## Chatterbot
 
-* [Tactalk](https://github.com/tacnoman/tactalk) - gem to make a chatterbot using ruby.
+* [chatterbot](https://github.com/muffinista/chatterbot) - A straightforward ruby-based Twitter Bot Framework, using OAuth to authenticate
+* [Lita](https://github.com/jimmycuadra/lita) - Lita is a chat bot written in Ruby with persistent storage provided by Redis
+* [Tactalk](https://github.com/tacnoman/tactalk) - gem to make a chatterbot using ruby
 
 ## Classification
 

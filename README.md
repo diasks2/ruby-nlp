@@ -7,6 +7,7 @@ A collection of Natural Language Processing (NLP) Ruby libraries, tools and soft
 
 * [APIs](#apis)
 * [Bitext Alignment](#bitext-alignment)
+* [Books](#books)
 * [Chatterbot](#chatterbot)
 * [Classification](#classification)
 * [Date and Time](#date-and-time)
@@ -47,6 +48,10 @@ Client libraries to various 3rd party NLP API services.
 * [napi-ruby](https://github.com/Maluuba/napi-ruby) - a simple Ruby wrapper for the Maluuba nAPI
 * [poliqarpr](https://github.com/apohllo/poliqarpr) - Ruby client for Poliqarp text corpus server
 * [wlapi](https://github.com/arbox/wlapi) - Ruby based API for the project Wortschatz Leipzig
+
+## Books
+
+* [Text Processing with Ruby](https://pragprog.com/book/rmtpruby/text-processing-with-ruby) by Rob Miller
 
 ## Bitext Alignment
 

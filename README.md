@@ -258,11 +258,12 @@ Automatic summarization is the process of reducing a text document with a comput
 * [tts](https://github.com/c2h2/tts) - a ruby gem for converting text-to-speech using the Google translate service
 
 ## Tokenizers
-* [Textoken] (https://github.com/manorie/textoken) - Simple and customizable text tokenization gem
+
 * [Jieba](https://github.com/mimosa/jieba-jruby) - Chinese tokenizer and segmenter (jRuby)
 * [MeCab](https://github.com/markburns/mecab) - Japanese morphological analyzer [[MeCab Heroku buildpack](https://github.com/diasks2/heroku-buildpack-mecab)]
 * [NLP Pure](https://github.com/parhamr/nlp-pure) - natural language processing algorithms implemented in pure Ruby with minimal dependencies
 * [rseg](https://github.com/yzhang/rseg) - a Chinese Word Segmentation (中文分词) routine in pure Ruby
+* [Textoken](https://github.com/manorie/textoken) - Simple and customizable text tokenization gem
 * [thailang4r](https://github.com/veer66/thailang4r) - Thai tokenizer
 * [tiny_segmenter](https://github.com/6/tiny_segmenter) - Ruby port of TinySegmenter.js for tokenizing Japanese text
 * [tokenizer](https://github.com/arbox/tokenizer) - a simple multilingual tokenizer

@@ -160,6 +160,7 @@ The following are libraries that integrate multiple NLP tools or functionality.
 A natural language parser is a program that works out the grammatical structure of sentences, for instance, which groups of words go together (as "phrases") and which words are the subject or object of a verb.
 
 * [linkparser](https://github.com/ged/linkparser) - a Ruby binding for the Abiword version of CMU's Link Grammar, a syntactic parser of English
+* [Parslet](http://kschiess.github.io/parslet/) - A small PEG based parser library
 * [rley](https://github.com/famished-tiger/Rley) - Ruby gem implementing a general context-free grammar parser based on Earley's algorithm
 * [Treetop](https://github.com/cjheath/treetop) - a Ruby-based parsing DSL based on parsing expression grammars
 

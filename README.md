@@ -243,6 +243,7 @@ Automatic summarization is the process of reducing a text document with a comput
 
 ## Text Similarity
 
+* [damerau-levenshtein](https://github.com/GlobalNamesArchitecture/damerau-levenshtein) - calculates edit distance using the Damerau-Levenshtein algorithm
 * [FuzzyMatch](https://github.com/seamusabshere/fuzzy_match) - find a needle in a haystack based on string similarity and regular expression rules
 * [fuzzy-string-match](https://github.com/kiyoka/fuzzy-string-match) - fuzzy string matching library for ruby
 * [FuzzyTools](https://github.com/brianhempel/fuzzy_tools) - In-memory TF-IDF fuzzy document finding with a fancy default tokenizer tuned on diverse record linkage datasets for easy out-of-the-box use

@@ -77,6 +77,8 @@ Classification aims to assign a document or piece of text to one or more classes
 * [Naive-Bayes](https://github.com/reddavis/Naive-Bayes) - simple Naive Bayes classifier
 * [nbayes](https://github.com/oasic/nbayes) - a full-featured, Ruby implementation of Naive Bayes
 * [stuff-classifier](https://github.com/alexandru/stuff-classifier) - a library for classifying text into multiple categories
+* [omnicat](https://github.com/mustafaturan/omnicat) - A generalized rack framework for text classifications.
+* [omnicat-bayes](https://github.com/mustafaturan/omnicat-bayes) - Naive Bayes text classification implementation as an OmniCat classifier strategy.
 
 ## Date and Time
 

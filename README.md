@@ -76,9 +76,9 @@ Classification aims to assign a document or piece of text to one or more classes
 * [maxent_string_classifier](https://github.com/mccraigmccraig/maxent_string_classifier) - a JRuby maximum entropy classifier for string data, based on the OpenNLP Maxent framework
 * [Naive-Bayes](https://github.com/reddavis/Naive-Bayes) - simple Naive Bayes classifier
 * [nbayes](https://github.com/oasic/nbayes) - a full-featured, Ruby implementation of Naive Bayes
+* [omnicat](https://github.com/mustafaturan/omnicat) - a generalized rack framework for text classifications
+* [omnicat-bayes](https://github.com/mustafaturan/omnicat-bayes) - Naive Bayes text classification implementation as an OmniCat classifier strategy
 * [stuff-classifier](https://github.com/alexandru/stuff-classifier) - a library for classifying text into multiple categories
-* [omnicat](https://github.com/mustafaturan/omnicat) - A generalized rack framework for text classifications.
-* [omnicat-bayes](https://github.com/mustafaturan/omnicat-bayes) - Naive Bayes text classification implementation as an OmniCat classifier strategy.
 
 ## Date and Time
 

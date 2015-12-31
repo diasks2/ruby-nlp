@@ -249,6 +249,7 @@ Automatic summarization is the process of reducing a text document with a comput
 
 ## Text Similarity
 
+* [amatch](https://github.com/flori/amatch) - collection of five type of distances between strings (including Levenshtein, Sellers, Jaro-Winkler, 'pair distance'. Last one seems to work well to find similarity in long phrases)
 * [damerau-levenshtein](https://github.com/GlobalNamesArchitecture/damerau-levenshtein) - calculates edit distance using the Damerau-Levenshtein algorithm
 * [FuzzyMatch](https://github.com/seamusabshere/fuzzy_match) - find a needle in a haystack based on string similarity and regular expression rules
 * [fuzzy-string-match](https://github.com/kiyoka/fuzzy-string-match) - fuzzy string matching library for ruby

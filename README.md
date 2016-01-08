@@ -146,6 +146,7 @@ The following are libraries that integrate multiple NLP tools or functionality.
 * [Open NLP (Ruby bindings)](https://github.com/louismullie/open-nlp)
 * [Stanford Core NLP (Ruby bindings)](https://github.com/louismullie/stanford-core-nlp)
 * [Treat](https://github.com/louismullie/treat) - natural language processing framework for Ruby
+* [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) - TwitterCldr uses Unicode's Common Locale Data Repository (CLDR) to format certain types of text into their localized equivalents
 * [ve](https://github.com/Kimtaro/ve) - a linguistic framework that's easy to use
 * [zipf](https://github.com/pks/zipf) - a collection of various NLP tools and libraries
 

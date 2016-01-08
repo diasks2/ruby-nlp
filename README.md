@@ -271,7 +271,7 @@ Automatic summarization is the process of reducing a text document with a comput
 * [Jieba](https://github.com/mimosa/jieba-jruby) - Chinese tokenizer and segmenter (jRuby)
 * [MeCab](https://github.com/markburns/mecab) - Japanese morphological analyzer [[MeCab Heroku buildpack](https://github.com/diasks2/heroku-buildpack-mecab)]
 * [NLP Pure](https://github.com/parhamr/nlp-pure) - natural language processing algorithms implemented in pure Ruby with minimal dependencies
-* [Pragmatic Tokenizer](https://github.com/diasks2/pragmatic_tokenizer) - s multilingual tokenizer to split a string into tokens
+* [Pragmatic Tokenizer](https://github.com/diasks2/pragmatic_tokenizer) - a multilingual tokenizer to split a string into tokens
 * [rseg](https://github.com/yzhang/rseg) - a Chinese Word Segmentation (中文分词) routine in pure Ruby
 * [Textoken](https://github.com/manorie/textoken) - Simple and customizable text tokenization gem
 * [thailang4r](https://github.com/veer66/thailang4r) - Thai tokenizer

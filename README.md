@@ -142,6 +142,7 @@ Classification aims to assign a document or piece of text to one or more classes
 * [language_filter](https://github.com/chrisvfritz/language_filter) - a Ruby gem to detect and optionally filter multiple categories of language
 * [Naturally](https://github.com/dogweather/naturally) - Natural (version number) sorting with support for legal document numbering, college course codes, and Unicode
 * [rwordnet](https://github.com/doches/rwordnet) - a pure Ruby interface to the WordNet lexical/semantic database
+* [sort_alphabetical](https://github.com/grosser/sort_alphabetical) -  sort UTF8 Strings alphabetical via Enumerable extension
 * [stringex](https://github.com/rsl/stringex) - some [hopefully] useful extensions to Ruby’s String class
 * [twitter-text](https://github.com/twitter/twitter-text/tree/master/rb) - gem that provides text processing routines for Twitter Tweets
 * [nameable](https://github.com/chorn/nameable) - A Ruby gem that provides parsing and output of person names, as well as Gender & Ethnicity matching

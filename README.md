@@ -70,7 +70,7 @@ Bitext alignment is the process of aligning two parallel documents on a segment 
 * [active_support](https://github.com/rails/rails/tree/master/activesupport/lib/active_support) - the rails active_support gem has various string extensions that can handle case (e.g. `.mb_chars.upcase.to_s` or #transliterate)
 * [string_pl](https://github.com/apohllo/string_pl) - additional support for Polish encodings in Ruby 1.9
 * [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb/blob/master/lib/twitter_cldr/shared/casefolder.rb) - casefolding
-* [u](http://disu.se/software/u-1.0/)- U extends Ruby’s Unicode support
+* [u](http://disu.se/software/u-1.0/) - U extends Ruby’s Unicode support
 
 ## Chatterbot
 

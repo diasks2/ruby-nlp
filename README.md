@@ -71,6 +71,7 @@ Bitext alignment is the process of aligning two parallel documents on a segment 
 * [string_pl](https://github.com/apohllo/string_pl) - additional support for Polish encodings in Ruby 1.9
 * [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb/blob/master/lib/twitter_cldr/shared/casefolder.rb) - casefolding
 * [u](http://disu.se/software/u-1.0/) - U extends Ruby’s Unicode support
+* [unicode](https://github.com/blackwinter/unicode) - Unicode normalization library
 * [unicode_utils](https://github.com/lang/unicode_utils) - Unicode algorithms for Ruby 1.9
 
 ## Chatterbot

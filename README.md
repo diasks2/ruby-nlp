@@ -220,13 +220,13 @@ A natural language parser is a program that works out the grammatical structure 
 * [regexp-examples](https://github.com/tom-lord/regexp-examples) - generate strings that match a given regular expression
 * [verbal_expressions](https://github.com/ryan-endacott/verbal_expressions) - make difficult regular expressions easy
 
-### Regular Expressions books
+### Books
 * [Regular Expression Pocket Reference](http://isbn.directory/book/9780596514273) - by Tony Stubblebine
 * [Regular Expressions Cookbook](http://isbn.directory/book/9781449319434) - by Jan Goyvaerts, Steven Levithan
 * [Mastering Regular Expressions](http://isbn.directory/book/9780596528126) - by Jeffrey E. F. Friedl
 
-### Regular Expressions Online resources
-*[Rubular](http://rubular.com/) - a Ruby regular expression editor
+### Online resources
+* [Rubular](http://rubular.com/) - a Ruby regular expression editor
 
 ## Ruby NLP Presentations
 

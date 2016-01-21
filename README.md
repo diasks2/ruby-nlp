@@ -40,24 +40,43 @@ A collection of Natural Language Processing (NLP) Ruby libraries, tools and soft
 
 ## APIs
 
+### 3rd party NLP services 
 Client libraries to various 3rd party NLP API services.
 
 * [alchemy_api](https://github.com/dbalatero/alchemy_api) - provides a client API library for AlchemyAPI's NLP services
 * [aylien_textapi_ruby](https://github.com/AYLIEN/aylien_textapi_ruby) - AYLIEN's officially supported Ruby client library for accessing Text API
 * [biffbot](https://github.com/tevren/biffbot) - Ruby gem for [Diffbot](http://www.diffbot.com/)'s APIs that extract Articles, Products, Images, Videos, and Discussions from any web page
-* [BOTServer](https://github.com/solyaris/BOTServer) - Telegram Bot API Webhooks Framework, for Rubyists
 * [gengo-ruby](https://github.com/gengo/gengo-ruby) - a Ruby library to interface with the Gengo API for translation
 * [monkeylearn-ruby](https://github.com/monkeylearn/monkeylearn-ruby) - build and consume machine learning models for language processing from your Ruby apps
 * [napi-ruby](https://github.com/Maluuba/napi-ruby) - a simple Ruby wrapper for the Maluuba nAPI
 * [poliqarpr](https://github.com/apohllo/poliqarpr) - Ruby client for Poliqarp text corpus server
+* [wlapi](https://github.com/arbox/wlapi) - Ruby based API for the project Wortschatz Leipzig
+
+### Instant Messaging Bots
+
+#### Telegram
 * [TelegramBot](https://github.com/eljojo/telegram_bot) - a charismatic Ruby client for Telegram's Bot API
 * [TelegramBotRuby](https://github.com/shouya/telegram-bot) - yet another client for Telegram's Bot API
 * [telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) - Ruby wrapper for Telegram's Bot API
-* [wlapi](https://github.com/arbox/wlapi) - Ruby based API for the project Wortschatz Leipzig
+* [BOTServer](https://github.com/solyaris/BOTServer) - Telegram Bot API Webhooks Framework, for Rubyists
+
+#### Slack
+* [slack-ruby-bot](https://github.com/dblock/slack-ruby-bot) - The easiest way to write a Slack bot in Ruby
+* [slack-ruby-client](https://github.com/dblock/slack-ruby-client) - A Ruby and command-line client for the Slack Web and Real Time Messaging APIs
+* [slack-bot-server](https://github.com/dblock/slack-bot-server) - A Grape API serving a Slack bot to multiple teams
+* [slack-ruby-gem](https://github.com/aki017/slack-ruby-gem) - A Ruby wrapper for the Slack API
 
 ## Books
 
 * [Text Processing with Ruby](https://pragprog.com/book/rmtpruby/text-processing-with-ruby) by Rob Miller
+* [Understanding Computation](http://isbn.directory/book/9781449329273) - by Tom Stuart
+* [Thoughtful Machine Learning: A Test-Driven Approach](http://www.amazon.com/Thoughtful-Machine-Learning-Test-Driven-Approach/dp/1449374069/ref=sr_1_1?ie=UTF8&qid=1410923833&sr=8-1&keywords=thoughtful+machine+learning) - by  Matthew Kirk 
+
+* [Regular Expression Pocket Reference](http://isbn.directory/book/9780596514273) - by Tony Stubblebine
+* [Regular Expressions Cookbook](http://isbn.directory/book/9781449319434) - by Jan Goyvaerts, Steven Levithan
+* [Mastering Regular Expressions](http://isbn.directory/book/9780596528126) - by Jeffrey E. F. Friedl
+* []() -
+* []() -
 
 ## Bitext Alignment
 

@@ -14,6 +14,7 @@ A collection of Natural Language Processing (NLP) Ruby libraries, tools and soft
 * [Date and Time](#date-and-time)
 * [Error Correction](#error-correction)
 * [Full-Text Search](#full-text-search)
+* [Dialog Systems](#dialog-systems)
 * [Keyword Ranking](#keyword-ranking)
 * [Language Detection](#language-detection)
 * [Machine Learning](#machine-learning)
@@ -52,7 +53,10 @@ Client libraries to various 3rd party NLP API services.
 * [poliqarpr](https://github.com/apohllo/poliqarpr) - Ruby client for Poliqarp text corpus server
 * [wlapi](https://github.com/arbox/wlapi) - Ruby based API for the project Wortschatz Leipzig
 
+
 ### Instant Messaging Bots
+Client/server libraries to various 3rd party instant messengers chat bots APIs.
+
 
 #### Telegram
 * [TelegramBot](https://github.com/eljojo/telegram_bot) - a charismatic Ruby client for Telegram's Bot API
@@ -70,14 +74,7 @@ Client libraries to various 3rd party NLP API services.
 
 * [Text Processing with Ruby](https://pragprog.com/book/rmtpruby/text-processing-with-ruby) by Rob Miller
 * [Understanding Computation](http://isbn.directory/book/9781449329273) - by Tom Stuart
-* [Thoughtful Machine Learning: A Test-Driven Approach](http://www.amazon.com/Thoughtful-Machine-Learning-Test-Driven-Approach/dp/1449374069/ref=sr_1_1?ie=UTF8&qid=1410923833&sr=8-1&keywords=thoughtful+machine+learning) - by  Matthew Kirk 
-
-* [Regular Expression Pocket Reference](http://isbn.directory/book/9780596514273) - by Tony Stubblebine
-* [Regular Expressions Cookbook](http://isbn.directory/book/9781449319434) - by Jan Goyvaerts, Steven Levithan
-* [Mastering Regular Expressions](http://isbn.directory/book/9780596528126) - by Jeffrey E. F. Friedl
-
-* []() -
-* []() -
+* [Thoughtful Machine Learning: A Test-Driven Approach](http://www.amazon.com/Thoughtful-Machine-Learning-Test-Driven-Approach/dp/1449374069/ref=sr_1_1?ie=UTF8&qid=1410923833&sr=8-1&keywords=thoughtful+machine+learning) - by  Matthew Kirk
 
 ## Bitext Alignment
 
@@ -133,6 +130,10 @@ Classification aims to assign a document or piece of text to one or more classes
 
 * [ferret](https://github.com/jkraemer/ferret) - an information retrieval library in the same vein as Apache Lucene
 * [ranguba](http://ranguba.org/) - a project to provide a full-text search system built on Groonga
+
+## Dialog System
+* [Dialogs](https://github.com/solyaris/dialogs) - A dialog system framework for conversational services
+  very draft release.
 
 ## Keyword Ranking
 
@@ -218,6 +219,14 @@ A natural language parser is a program that works out the grammatical structure 
 * [CommonRegexRuby](https://github.com/talyssonoc/CommonRegexRuby) - find a lot of kinds of common information in a string
 * [regexp-examples](https://github.com/tom-lord/regexp-examples) - generate strings that match a given regular expression
 * [verbal_expressions](https://github.com/ryan-endacott/verbal_expressions) - make difficult regular expressions easy
+
+### Regular Expressions books
+* [Regular Expression Pocket Reference](http://isbn.directory/book/9780596514273) - by Tony Stubblebine
+* [Regular Expressions Cookbook](http://isbn.directory/book/9781449319434) - by Jan Goyvaerts, Steven Levithan
+* [Mastering Regular Expressions](http://isbn.directory/book/9780596528126) - by Jeffrey E. F. Friedl
+
+### Regular Expressions Online resources
+*[Rubular](http://rubular.com/) - a Ruby regular expression editor
 
 ## Ruby NLP Presentations
 

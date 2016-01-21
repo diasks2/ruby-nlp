@@ -75,6 +75,7 @@ Client libraries to various 3rd party NLP API services.
 * [Regular Expression Pocket Reference](http://isbn.directory/book/9780596514273) - by Tony Stubblebine
 * [Regular Expressions Cookbook](http://isbn.directory/book/9781449319434) - by Jan Goyvaerts, Steven Levithan
 * [Mastering Regular Expressions](http://isbn.directory/book/9780596528126) - by Jeffrey E. F. Friedl
+
 * []() -
 * []() -
 

@@ -131,7 +131,7 @@ Classification aims to assign a document or piece of text to one or more classes
 * [ferret](https://github.com/jkraemer/ferret) - an information retrieval library in the same vein as Apache Lucene
 * [ranguba](http://ranguba.org/) - a project to provide a full-text search system built on Groonga
 
-## Dialog System
+## Dialog Systems
 * [Dialogs](https://github.com/solyaris/dialogs) - A dialog system framework for conversational services
   very draft release.
 

@@ -58,25 +58,27 @@ Client libraries to various 3rd party NLP API services.
 Client/server libraries to various 3rd party instant messengers chat bots APIs.
 
 #### Telegram
+
+* [BOTServer](https://github.com/solyaris/BOTServer) - Telegram Bot API Webhooks Framework, for Rubyists
 * [TelegramBot](https://github.com/eljojo/telegram_bot) - a charismatic Ruby client for Telegram's Bot API
 * [TelegramBotRuby](https://github.com/shouya/telegram-bot) - yet another client for Telegram's Bot API
 * [telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) - Ruby wrapper for Telegram's Bot API
-* [BOTServer](https://github.com/solyaris/BOTServer) - Telegram Bot API Webhooks Framework, for Rubyists
 
 #### Slack
+
+* [slack-bot-server](https://github.com/dblock/slack-bot-server) - A Grape API serving a Slack bot to multiple teams
 * [slack-ruby-bot](https://github.com/dblock/slack-ruby-bot) - The easiest way to write a Slack bot in Ruby
 * [slack-ruby-client](https://github.com/dblock/slack-ruby-client) - A Ruby and command-line client for the Slack Web and Real Time Messaging APIs
-* [slack-bot-server](https://github.com/dblock/slack-bot-server) - A Grape API serving a Slack bot to multiple teams
 * [slack-ruby-gem](https://github.com/aki017/slack-ruby-gem) - A Ruby wrapper for the Slack API
 
 ## Books
 
-* [Text Processing with Ruby](https://pragprog.com/book/rmtpruby/text-processing-with-ruby) by Rob Miller
-* [Understanding Computation](http://isbn.directory/book/9781449329273) - by Tom Stuart
-* [Thoughtful Machine Learning: A Test-Driven Approach](http://www.amazon.com/Thoughtful-Machine-Learning-Test-Driven-Approach/dp/1449374069/ref=sr_1_1?ie=UTF8&qid=1410923833&sr=8-1&keywords=thoughtful+machine+learning) - by Matthew Kirk
-* [Regular Expression Pocket Reference](http://isbn.directory/book/9780596514273) - by Tony Stubblebine
-* [Regular Expressions Cookbook](http://isbn.directory/book/9781449319434) - by Jan Goyvaerts, Steven Levithan
 * [Mastering Regular Expressions](http://isbn.directory/book/9780596528126) - by Jeffrey E. F. Friedl
+* [Regular Expressions Cookbook](http://isbn.directory/book/9781449319434) - by Jan Goyvaerts, Steven Levithan
+* [Regular Expression Pocket Reference](http://isbn.directory/book/9780596514273) - by Tony Stubblebine
+* [Text Processing with Ruby](https://pragprog.com/book/rmtpruby/text-processing-with-ruby) by Rob Miller
+* [Thoughtful Machine Learning: A Test-Driven Approach](http://www.amazon.com/Thoughtful-Machine-Learning-Test-Driven-Approach/dp/1449374069/ref=sr_1_1?ie=UTF8&qid=1410923833&sr=8-1&keywords=thoughtful+machine+learning) - by Matthew Kirk
+* [Understanding Computation](http://isbn.directory/book/9781449329273) - by Tom Stuart
 
 ## Bitext Alignment
 
@@ -124,6 +126,7 @@ Classification aims to assign a document or piece of text to one or more classes
 * [Tickle](https://github.com/yb66/tickle) - a natural language parser for recurring events
 
 ## Dialog Systems
+
 * [Dialogs](https://github.com/solyaris/dialogs) - A dialog system framework for conversational services (draft release)
 
 ## Error Correction
@@ -160,6 +163,7 @@ Classification aims to assign a document or piece of text to one or more classes
 
 ## Miscellaneous
 
+* [dialable](https://github.com/chorn/dialable) - A Ruby gem that provides parsing and output of North American Numbering Plan (NANP) phone numbers, and includes location & time zones
 * [gibber](https://github.com/timonv/gibber) - Gibber replaces text with nonsensical latin with a maximum size difference of +/- 30%
 * [hiatus](https://github.com/ahanba/hiatus) - a localization QA tool
 * [language_filter](https://github.com/chrisvfritz/language_filter) - a Ruby gem to detect and optionally filter multiple categories of language
@@ -169,7 +173,6 @@ Classification aims to assign a document or piece of text to one or more classes
 * [stringex](https://github.com/rsl/stringex) - some [hopefully] useful extensions to Ruby’s String class
 * [twitter-text](https://github.com/twitter/twitter-text/tree/master/rb) - gem that provides text processing routines for Twitter Tweets
 * [nameable](https://github.com/chorn/nameable) - A Ruby gem that provides parsing and output of person names, as well as Gender & Ethnicity matching
-* [dialable](https://github.com/chorn/dialable) - A Ruby gem that provides parsing and output of North American Numbering Plan (NANP) phone numbers, and includes location & time zones
 
 ## Multipurpose Tools
 
@@ -222,6 +225,7 @@ A natural language parser is a program that works out the grammatical structure 
 * [verbal_expressions](https://github.com/ryan-endacott/verbal_expressions) - make difficult regular expressions easy
 
 ### Online resources
+* [Explain Regular Expression](http://regexdoc.com/re/explain.pl) - breakdown and explanation of each part of your regular expression
 * [Rubular](http://rubular.com/) - a Ruby regular expression editor
 
 ## Ruby NLP Presentations

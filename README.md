@@ -52,6 +52,7 @@ Client libraries to various 3rd party NLP API services.
 * [monkeylearn-ruby](https://github.com/monkeylearn/monkeylearn-ruby) - build and consume machine learning models for language processing from your Ruby apps
 * [napi-ruby](https://github.com/Maluuba/napi-ruby) - a simple Ruby wrapper for the Maluuba nAPI
 * [poliqarpr](https://github.com/apohllo/poliqarpr) - Ruby client for Poliqarp text corpus server
+* [wit-ruby](https://github.com/modeset/wit-ruby) - Easy interface for wit.ai natural language parsing
 * [wlapi](https://github.com/arbox/wlapi) - Ruby based API for the project Wortschatz Leipzig
 
 ### Instant Messaging Bots

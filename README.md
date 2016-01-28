@@ -46,6 +46,7 @@ A collection of Natural Language Processing (NLP) Ruby libraries, tools and soft
 Client libraries to various 3rd party NLP API services.
 
 * [alchemy_api](https://github.com/dbalatero/alchemy_api) - provides a client API library for AlchemyAPI's NLP services
+* [api-ai-ruby](https://github.com/api-ai/api-ai-ruby) - A Ruby SDK to the https://api.ai natural language processing service
 * [aylien_textapi_ruby](https://github.com/AYLIEN/aylien_textapi_ruby) - AYLIEN's officially supported Ruby client library for accessing Text API
 * [biffbot](https://github.com/tevren/biffbot) - Ruby gem for [Diffbot](http://www.diffbot.com/)'s APIs that extract Articles, Products, Images, Videos, and Discussions from any web page
 * [gengo-ruby](https://github.com/gengo/gengo-ruby) - a Ruby library to interface with the Gengo API for translation

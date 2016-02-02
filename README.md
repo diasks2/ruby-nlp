@@ -46,14 +46,11 @@ A collection of Natural Language Processing (NLP) Ruby libraries, tools and soft
 Client libraries to various 3rd party NLP API services.
 
 * [alchemy_api](https://github.com/dbalatero/alchemy_api) - provides a client API library for AlchemyAPI's NLP services
-* [api-ai-ruby](https://github.com/api-ai/api-ai-ruby) - A Ruby SDK to the https://api.ai natural language processing service
 * [aylien_textapi_ruby](https://github.com/AYLIEN/aylien_textapi_ruby) - AYLIEN's officially supported Ruby client library for accessing Text API
 * [biffbot](https://github.com/tevren/biffbot) - Ruby gem for [Diffbot](http://www.diffbot.com/)'s APIs that extract Articles, Products, Images, Videos, and Discussions from any web page
 * [gengo-ruby](https://github.com/gengo/gengo-ruby) - a Ruby library to interface with the Gengo API for translation
 * [monkeylearn-ruby](https://github.com/monkeylearn/monkeylearn-ruby) - build and consume machine learning models for language processing from your Ruby apps
-* [napi-ruby](https://github.com/Maluuba/napi-ruby) - a simple Ruby wrapper for the Maluuba nAPI
 * [poliqarpr](https://github.com/apohllo/poliqarpr) - Ruby client for Poliqarp text corpus server
-* [wit-ruby](https://github.com/modeset/wit-ruby) - Easy interface for wit.ai natural language parsing
 * [wlapi](https://github.com/arbox/wlapi) - Ruby based API for the project Wortschatz Leipzig
 
 ### Instant Messaging Bots
@@ -72,6 +69,11 @@ Client/server libraries to various 3rd party instant messengers chat bots APIs.
 * [slack-ruby-bot](https://github.com/dblock/slack-ruby-bot) - The easiest way to write a Slack bot in Ruby
 * [slack-ruby-client](https://github.com/dblock/slack-ruby-client) - A Ruby and command-line client for the Slack Web and Real Time Messaging APIs
 * [slack-ruby-gem](https://github.com/aki017/slack-ruby-gem) - A Ruby wrapper for the Slack API
+
+### Dialog Systems
+
+* [api-ai-ruby](https://github.com/api-ai/api-ai-ruby) - A Ruby SDK to the https://api.ai natural language processing service
+* [wit-ruby](https://github.com/modeset/wit-ruby) - Easy interface for wit.ai natural language parsing
 
 ## Books
 

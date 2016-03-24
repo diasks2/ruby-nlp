@@ -142,6 +142,7 @@ Classification aims to assign a document or piece of text to one or more classes
 
 * [ferret](https://github.com/jkraemer/ferret) - an information retrieval library in the same vein as Apache Lucene
 * [ranguba](http://ranguba.org/) - a project to provide a full-text search system built on Groonga
+* [Thinking Sphinx](https://github.com/pat/thinking-sphinx) - Sphinx plugin for ActiveRecord/Rails
 
 ## Keyword Ranking
 

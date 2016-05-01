@@ -56,6 +56,10 @@ Client libraries to various 3rd party NLP API services.
 ### Instant Messaging Bots
 Client/server libraries to various 3rd party instant messengers chat bots APIs.
 
+#### Facebook Messenger
+[facebook-messenger](https://github.com/hyperoslo/facebook-messenger) - Definitely the best Ruby client for Bots on Messenger
+[messenger-ruby](https://github.com/netguru/messenger-ruby) - A simple library for supporting implementation of Facebook Messenger Bot in Ruby on Rails
+
 #### Telegram
 
 * [BOTServer](https://github.com/solyaris/BOTServer) - Telegram Bot API Webhooks Framework, for Rubyists

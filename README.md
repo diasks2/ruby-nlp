@@ -12,10 +12,8 @@ A collection of Natural Language Processing (NLP) Ruby libraries, tools and soft
 * [Chatterbot](#chatterbot)
 * [Classification](#classification)
 * [Date and Time](#date-and-time)
-* [Dialog Systems](#dialog-systems)
 * [Error Correction](#error-correction)
 * [Full-Text Search](#full-text-search)
-* [Dialog Systems](#dialog-systems)
 * [Keyword Ranking](#keyword-ranking)
 * [Language Detection](#language-detection)
 * [Machine Learning](#machine-learning)
@@ -132,10 +130,6 @@ Classification aims to assign a document or piece of text to one or more classes
 * [Kronic](https://github.com/xaviershay/kronic) - a dirt simple library for parsing and formatting human readable dates
 * [Nickel](https://github.com/iainbeeston/nickel) - extracts date, time, and message information from naturally worded text
 * [Tickle](https://github.com/yb66/tickle) - a natural language parser for recurring events
-
-## Dialog Systems
-
-* [Dialogs](https://github.com/solyaris/dialogs) - A dialog system framework for conversational services (draft release)
 
 ## Error Correction
 

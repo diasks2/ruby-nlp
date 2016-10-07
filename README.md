@@ -58,6 +58,9 @@ Client/server libraries to various 3rd party instant messengers chat bots APIs.
 * [facebook-messenger](https://github.com/hyperoslo/facebook-messenger) - Definitely the best Ruby client for Bots on Messenger  
 * [messenger-ruby](https://github.com/netguru/messenger-ruby) - A simple library for supporting implementation of Facebook Messenger Bot in Ruby on Rails
 
+#### Kik
+* [kik](https://github.com/muaad/kik) - Build www.Kik.com bots in Ruby   
+
 #### Telegram
 
 * [BOTServer](https://github.com/solyaris/BOTServer) - Telegram Bot API Webhooks Framework, for Rubyists
@@ -72,9 +75,15 @@ Client/server libraries to various 3rd party instant messengers chat bots APIs.
 * [slack-ruby-client](https://github.com/dblock/slack-ruby-client) - A Ruby and command-line client for the Slack Web and Real Time Messaging APIs
 * [slack-ruby-gem](https://github.com/aki017/slack-ruby-gem) - A Ruby wrapper for the Slack API
 
+#### Wechat
+* [wechat](https://github.com/Eric-Guo/wechat) API, command and message handling for [WeChat](http://admin.wechat.com/wiki/index.php?title=Guide_for_Message_API) in Rails
+* [wechat-api](https://github.com/lazing/wechat-api) - 用于微信 api 调用（非服务端推送信息）的处理。
+
+
 ### Dialog Systems
 
 * [api-ai-ruby](https://github.com/api-ai/api-ai-ruby) - A Ruby SDK to the https://api.ai natural language processing service
+* [expando](https://github.com/expando-lang/expando) - A translation language for defining user utterance examples in conversational interfaces (for [Api.ai](https://api.ai) and similars).
 * [wit-ruby](https://github.com/modeset/wit-ruby) - Easy interface for wit.ai natural language parsing
 
 ## Books
@@ -122,6 +131,24 @@ Classification aims to assign a document or piece of text to one or more classes
 * [omnicat-bayes](https://github.com/mustafaturan/omnicat-bayes) - Naive Bayes text classification implementation as an OmniCat classifier strategy
 * [stuff-classifier](https://github.com/alexandru/stuff-classifier) - a library for classifying text into multiple categories
 
+## Databases
+Lexical databases, knowledge-base common sense, multilingual lexicalized semantic networks and ontologies
+
+### BabelNet
+* [BabelNet API client](http://babelnet.org/guide) - API (with Ruby examples) for [BabelNet](http://babelnet.org/),  multilingual lexicalized semantic network and ontology 
+
+### ConceptNet
+[ConceptNet API](https://github.com/commonsense/conceptnet5/wiki/API) - REST API for [ConceptNet](https://github.com/commonsense/conceptnet5/wiki)
+
+### Mediawiki, Wikipedia
+* [mediawiki-ruby-api](https://github.com/wikimedia/mediawiki-ruby-api) - Github mirror of "mediawiki/ruby/api" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
+* [wikipedia-client](https://github.com/kenpratt/wikipedia-client) - Ruby client for the Wikipedia API http://github.com/kenpratt/wikipedia-client
+
+### Wordnet
+[ruby-wordnet](https://github.com/ged/ruby-wordnet) - A Ruby interface to the WordNet® Lexical Database. http://deveiate.org/projects/Ruby-WordNet
+[rwordnet](https://github.com/doches/rwordnet) - A pure Ruby interface to the WordNet database http://www.texasexpat.net/
+
+
 ## Date and Time
 
 * [Chronic](https://github.com/mojombo/chronic) - a pure Ruby natural language date parser
@@ -157,6 +184,7 @@ Classification aims to assign a document or piece of text to one or more classes
 * [Decision Tree](https://github.com/igrigorik/decisiontree) - a ruby library which implements ID3 (information gain) algorithm for decision tree learning
 * [rb-libsvm](https://github.com/febeling/rb-libsvm) - implementation of SVM, a machine learning and classification algorithm
 * [RubyFann](https://github.com/tangledpath/ruby-fann) - a ruby gem that binds to FANN (Fast Artificial Neural Network) from within a ruby/rails environment
+* [tensorflow.rb](https://github.com/somaticio/tensorflow.rb) - tensorflow for ruby
 
 ## Machine Translation
 

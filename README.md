@@ -16,6 +16,7 @@ A collection of Natural Language Processing (NLP) Ruby libraries, tools and soft
 * [Full-Text Search](#full-text-search)
 * [Keyword Ranking](#keyword-ranking)
 * [Language Detection](#language-detection)
+* [Lexical Databases and Ontologies](#lexical-databases-and-ontologies)
 * [Machine Learning](#machine-learning)
 * [Machine Translation](#machine-translation)
 * [Miscellaneous](#miscellaneous)
@@ -149,25 +150,6 @@ Classification aims to assign a document or piece of text to one or more classes
 * [omnicat-bayes](https://github.com/mustafaturan/omnicat-bayes) - Naive Bayes text classification implementation as an OmniCat classifier strategy
 * [stuff-classifier](https://github.com/alexandru/stuff-classifier) - a library for classifying text into multiple categories
 
-
-## Lexical Databases and Ontologies
-Lexical databases, knowledge-base common sense, multilingual lexicalized semantic networks and ontologies
-
-### BabelNet
-* [BabelNet API client](http://babelnet.org/guide) - API (with Ruby examples) for [BabelNet](http://babelnet.org/),  multilingual lexicalized semantic network and ontology 
-
-### ConceptNet
-* [ConceptNet API](https://github.com/commonsense/conceptnet5/wiki/API) - REST API for [ConceptNet](https://github.com/commonsense/conceptnet5/wiki)
-
-### Mediawiki, Wikipedia
-* [mediawiki-ruby-api](https://github.com/wikimedia/mediawiki-ruby-api) - Github mirror of "mediawiki/ruby/api" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
-* [wikipedia-client](https://github.com/kenpratt/wikipedia-client) - Ruby client for the Wikipedia API http://github.com/kenpratt/wikipedia-client
-
-### Wordnet
-[ruby-wordnet](https://github.com/ged/ruby-wordnet) - A Ruby interface to the WordNet® Lexical Database. http://deveiate.org/projects/Ruby-WordNet
-[rwordnet](https://github.com/doches/rwordnet) - A pure Ruby interface to the WordNet database http://www.texasexpat.net/
-
-
 ## Date and Time
 
 * [Chronic](https://github.com/mojombo/chronic) - a pure Ruby natural language date parser
@@ -197,6 +179,23 @@ Lexical databases, knowledge-base common sense, multilingual lexicalized semanti
 
 * [Detect Language API Client](https://github.com/detectlanguage/detectlanguage-ruby) - detects language of given text and returns detected language codes and scores
 * [whatlanguage](https://github.com/peterc/whatlanguage) - a language detection library for Ruby that uses bloom filters for speed
+
+## Lexical Databases and Ontologies
+Lexical databases, knowledge-base common sense, multilingual lexicalized semantic networks and ontologies
+
+### BabelNet
+* [BabelNet API client](http://babelnet.org/guide) - API (with Ruby examples) for [BabelNet](http://babelnet.org/),  multilingual lexicalized semantic network and ontology 
+
+### ConceptNet
+* [ConceptNet API](https://github.com/commonsense/conceptnet5/wiki/API) - REST API for [ConceptNet](https://github.com/commonsense/conceptnet5/wiki)
+
+### Mediawiki, Wikipedia
+* [mediawiki-ruby-api](https://github.com/wikimedia/mediawiki-ruby-api) - Github mirror of "mediawiki/ruby/api" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
+* [wikipedia-client](https://github.com/kenpratt/wikipedia-client) - Ruby client for the Wikipedia API http://github.com/kenpratt/wikipedia-client
+
+### Wordnet
+[ruby-wordnet](https://github.com/ged/ruby-wordnet) - A Ruby interface to the WordNet® Lexical Database. http://deveiate.org/projects/Ruby-WordNet
+[rwordnet](https://github.com/doches/rwordnet) - A pure Ruby interface to the WordNet database http://www.texasexpat.net/
 
 ## Machine Learning
 

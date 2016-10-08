@@ -9,7 +9,7 @@ A collection of Natural Language Processing (NLP) Ruby libraries, tools and soft
 * [Bitext Alignment](#bitext-alignment)
 * [Books](#books)
 * [Case](#case)
-* [Chatterbot](#chatterbot)
+* [Chatbot](#chatbot)
 * [Classification](#classification)
 * [Date and Time](#date-and-time)
 * [Error Correction](#error-correction)

@@ -12,9 +12,10 @@ A collection of Natural Language Processing (NLP) Ruby libraries, tools and soft
 * [Chatterbot](#chatterbot)
 * [Classification](#classification)
 * [Date and Time](#date-and-time)
+* [Emoji](#emoji)
 * [Error Correction](#error-correction)
 * [Full-Text Search](#full-text-search)
-* [Keyword Ranking](#keyword-ranking)
+* [Keyword Ranking](#keywor/ed-ranking)
 * [Language Detection](#language-detection)
 * [Machine Learning](#machine-learning)
 * [Machine Translation](#machine-translation)
@@ -34,7 +35,7 @@ A collection of Natural Language Processing (NLP) Ruby libraries, tools and soft
 * [Summarization](#summarization)
 * [Text Extraction](#text-extraction)
 * [Text Similarity](#text-similarity)
-* [Text-to-Speech](#text-to-speech)
+* [Text-/Dateto-Speech](#text-to-speech)
 * [Tokenizers](#tokenizers)
 * [Word Count](#word-count)
 
@@ -176,6 +177,13 @@ Lexical databases, knowledge-base common sense, multilingual lexicalized semanti
 * [Kronic](https://github.com/xaviershay/kronic) - a dirt simple library for parsing and formatting human readable dates
 * [Nickel](https://github.com/iainbeeston/nickel) - extracts date, time, and message information from naturally worded text
 * [Tickle](https://github.com/yb66/tickle) - a natural language parser for recurring events
+
+## Emoji
+* [active_emoji](https://github.com/sferik/active_emoji) - A collection of emoji aliases for core Ruby methods
+* [emoji](https://github.com/wpeterson/emoji) - A gem. For Emoji. For everyone. ❤
+* [gemoji](https://github.com/github/gemoji) - Emoji images and names
+* [gemoji-parser](https://github.com/gmac/gemoji-parser) - The missing helper methods for GitHub's gemoji gem
+* [rumoji](https://github.com/mwunsch/rumoji) - Encode and decode emoji unicode characters into emoji-cheat-sheet form. [article](http://mwunsch.tumblr.com/post/34721548842/we-need-to-talk-about-emoji)
 
 ## Error Correction
 

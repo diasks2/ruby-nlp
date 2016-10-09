@@ -35,7 +35,7 @@ A collection of Natural Language Processing (NLP) Ruby libraries, tools and soft
 * [Summarization](#summarization)
 * [Text Extraction](#text-extraction)
 * [Text Similarity](#text-similarity)
-* [Text-/Dateto-Speech](#text-to-speech)
+* [Text-to-Speech](#text-to-speech)
 * [Tokenizers](#tokenizers)
 * [Word Count](#word-count)
 

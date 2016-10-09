@@ -56,6 +56,7 @@ Client libraries to various 3rd party NLP API services.
 Client/server libraries to various 3rd party instant messengers chat bots APIs.
 
 #### Facebook Messenger
+* [botstack](https://github.com/davidmann4/botstack) - rapid FB Chatbot development with ruby on rails
 * [facebook-messenger](https://github.com/hyperoslo/facebook-messenger) - Definitely the best Ruby client for Bots on Messenger  
 * [messenger-ruby](https://github.com/netguru/messenger-ruby) - A simple library for supporting implementation of Facebook Messenger Bot in Ruby on Rails
 
@@ -165,8 +166,8 @@ Lexical databases, knowledge-base common sense, multilingual lexicalized semanti
 * [wikipedia-client](https://github.com/kenpratt/wikipedia-client) - Ruby client for the Wikipedia API http://github.com/kenpratt/wikipedia-client
 
 ### Wordnet
-[ruby-wordnet](https://github.com/ged/ruby-wordnet) - A Ruby interface to the WordNet® Lexical Database. http://deveiate.org/projects/Ruby-WordNet
-[rwordnet](https://github.com/doches/rwordnet) - A pure Ruby interface to the WordNet database http://www.texasexpat.net/
+* [ruby-wordnet](https://github.com/ged/ruby-wordnet) - A Ruby interface to the WordNet® Lexical Database. http://deveiate.org/projects/Ruby-WordNet
+* [rwordnet](https://github.com/doches/rwordnet) - A pure Ruby interface to the WordNet database http://www.texasexpat.net/
 
 
 ## Date and Time
@@ -221,16 +222,18 @@ Lexical databases, knowledge-base common sense, multilingual lexicalized semanti
 
 ## Miscellaneous
 
+* [calyx](https://github.com/maetl/calyx) - A Ruby library for generating text with declarative recursive grammars
 * [dialable](https://github.com/chorn/dialable) - A Ruby gem that provides parsing and output of North American Numbering Plan (NANP) phone numbers, and includes location & time zones
 * [gibber](https://github.com/timonv/gibber) - Gibber replaces text with nonsensical latin with a maximum size difference of +/- 30%
 * [hiatus](https://github.com/ahanba/hiatus) - a localization QA tool
 * [language_filter](https://github.com/chrisvfritz/language_filter) - a Ruby gem to detect and optionally filter multiple categories of language
 * [Naturally](https://github.com/dogweather/naturally) - Natural (version number) sorting with support for legal document numbering, college course codes, and Unicode
-* [rwordnet](https://github.com/doches/rwordnet) - a pure Ruby interface to the WordNet lexical/semantic database
+* [nameable](https://github.com/chorn/nameable) - A Ruby gem that provides parsing and output of person names, as well as Gender & Ethnicity matching
 * [sort_alphabetical](https://github.com/grosser/sort_alphabetical) -  sort UTF8 Strings alphabetical via Enumerable extension
+* [spintax_parser](https://github.com/flintinatux/spintax_parser) - A mixin to parse "spintax", a text format used for automated article generation. Can handle nested spintax.
 * [stringex](https://github.com/rsl/stringex) - some [hopefully] useful extensions to Ruby’s String class
 * [twitter-text](https://github.com/twitter/twitter-text/tree/master/rb) - gem that provides text processing routines for Twitter Tweets
-* [nameable](https://github.com/chorn/nameable) - A Ruby gem that provides parsing and output of person names, as well as Gender & Ethnicity matching
+
 
 ## Multipurpose Tools
 

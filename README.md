@@ -15,7 +15,7 @@ A collection of Natural Language Processing (NLP) Ruby libraries, tools and soft
 * [Emoji](#emoji)
 * [Error Correction](#error-correction)
 * [Full-Text Search](#full-text-search)
-* [Keyword Ranking](#keywor/ed-ranking)
+* [Keyword Ranking](#keyword-ranking)
 * [Language Detection](#language-detection)
 * [Machine Learning](#machine-learning)
 * [Machine Translation](#machine-translation)

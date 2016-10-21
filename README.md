@@ -91,7 +91,7 @@ Client/server libraries to various 3rd party instant messengers chat bots APIs.
 
 * [api-ai-ruby](https://github.com/api-ai/api-ai-ruby) - A Ruby SDK to the https://api.ai natural language processing service
 * [expando](https://github.com/expando-lang/expando) - A translation language for defining user utterance examples in conversational interfaces (for [Api.ai](https://api.ai) and similars).
-* [wit-ruby](https://github.com/modeset/wit-ruby) - Easy interface for wit.ai natural language parsing
+* [wit-ruby](https://github.com/wit-ai/wit-ruby) - Easy interface for wit.ai natural language parsing
 
 ### Voice-based devices bots
 Client/server libraries to various 3rd party voice-based devices APIs.

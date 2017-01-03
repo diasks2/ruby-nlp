@@ -31,7 +31,7 @@ A collection of Natural Language Processing (NLP) Ruby libraries, tools and soft
 * [Readability](#readability)
 * [Regular Expressions](#regular-expressions)
 * [Ruby NLP Presentations](#ruby-nlp-presentations)
-* [Sentences generation](sentences-generation)
+* [Sentence Generation](sentence-generation)
 * [Sentence Segmentation](#sentence-segmentation)
 * [Speech-to-Text](#speech-to-text)
 * [Stemmers](#stemmers)
@@ -326,11 +326,11 @@ A natural language parser is a program that works out the grammatical structure 
 * *Natural Language Processing with Ruby: n-grams* [[tutorial](http://www.sitepoint.com/natural-language-processing-ruby-n-grams/)] - [Nathan Kleyn](https://github.com/nathankleyn) (2013)
 * *A Tour Through Random Ruby* [[tutorial](http://www.sitepoint.com/tour-random-ruby/)] - Robert Qualls (2013)
 
-## Sentences generation
+## Sentence Generation
 
 * [gabbler](https://github.com/michaeldv/gabbler) - Gab-bler (noun) - rapid, unintelligible talk
 * [faker](https://github.com/stympy/faker) - A library for generating fake data such as names, addresses, and phone numbers
-* [kusari](https://github.com/takuti/kusari) - 🔗 Japanese random sentence generator based on Markov chain
+* [kusari](https://github.com/takuti/kusari) - Japanese random sentence generator based on Markov chain
 * [literate_randomizer](https://github.com/imikimi/literate_randomizer) - Using Markov chains, this generates near-english prose.
 * [markov-sentence-generator](https://github.com/hrs/markov-sentence-generator) - Generates a random, locally-correct sentence using textual input and a Markov model
 * [marky_markov](https://github.com/zolrath/marky_markov) - Markov Chain Generator 

@@ -31,7 +31,7 @@ A collection of Natural Language Processing (NLP) Ruby libraries, tools and soft
 * [Readability](#readability)
 * [Regular Expressions](#regular-expressions)
 * [Ruby NLP Presentations](#ruby-nlp-presentations)
-* [Sentence Generation](sentence-generation)
+* [Sentence Generation](#sentence-generation)
 * [Sentence Segmentation](#sentence-segmentation)
 * [Speech-to-Text](#speech-to-text)
 * [Stemmers](#stemmers)
@@ -105,11 +105,6 @@ Client/server libraries to various 3rd party voice-based devices APIs.
 * [alexa-rubykit](https://github.com/damianFC/alexa-rubykit) - Amazon Echo Alexa's App Kit Ruby Implementation
 * [alexa-skill](https://github.com/skierkowski/alexa-skill) - A Ruby based DSL to create new Alexa Skills
 * [alexa_skills_ruby](https://github.com/DanElbert/alexa_skills_ruby) - Simple library to interface with the Alexa Skills Kit
-* [Amazon Lex](https://aws.amazon.com/lex/) - Conversational interfaces for your applications. Powered by the same deep learning technologies as Alexa
-
-#### Actions on Google
-* [Actions on Google](https://developers.google.com/actions/develop/conversation) - Conversation Actions help you fulfill user requests by letting you have a two-way dialog with users
-
 
 ## Books
 
@@ -335,7 +330,7 @@ A natural language parser is a program that works out the grammatical structure 
 * [markov-sentence-generator](https://github.com/hrs/markov-sentence-generator) - Generates a random, locally-correct sentence using textual input and a Markov model
 * [marky_markov](https://github.com/zolrath/marky_markov) - Markov Chain Generator 
 * [poem-generator](https://github.com/mindreframer/poem-generator) - A generator for gothic poems 
-* [poetry](https://github.com/adimichele/poetry - poetry generator
+* [poetry](https://github.com/adimichele/poetry) - poetry generator
 * [pwqgen.rb](https://github.com/iphoting/pwqgen.rb) -  Ruby implementation of passwdqc's pwqgen, a random pronouncable password generator
 * [ramble](https://github.com/saaadhu/ramble) - library for generating sentences from a yacc grammar
 * [token_phrase](https://github.com/genericsteele/token_phrase) - A token phrase generator

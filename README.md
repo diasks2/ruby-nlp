@@ -17,6 +17,7 @@ A collection of Natural Language Processing (NLP) Ruby libraries, tools and soft
 * [Full-Text Search](#full-text-search)
 * [Keyword Ranking](#keyword-ranking)
 * [Language Detection](#language-detection)
+* [Language Localization](#language-localization)
 * [Lexical Databases and Ontologies](#lexical-databases-and-ontologies)
 * [Machine Learning](#machine-learning)
 * [Machine Translation](#machine-translation)
@@ -24,11 +25,13 @@ A collection of Natural Language Processing (NLP) Ruby libraries, tools and soft
 * [Multipurpose Tools](#multipurpose-tools)
 * [Named Entity Recognition](#named-entity-recognition)
 * [Ngrams](#ngrams)
+* [Numbers](#numbers)
 * [Parsers](#parsers)
 * [Part-of-Speech Taggers](#part-of-speech-taggers)
 * [Readability](#readability)
 * [Regular Expressions](#regular-expressions)
 * [Ruby NLP Presentations](#ruby-nlp-presentations)
+* [Sentences generation](sentences-generation)
 * [Sentence Segmentation](#sentence-segmentation)
 * [Speech-to-Text](#speech-to-text)
 * [Stemmers](#stemmers)
@@ -87,7 +90,7 @@ Client/server libraries to various 3rd party instant messengers chat bots APIs.
 * [wechat-api](https://github.com/lazing/wechat-api) - 用于微信 api 调用（非服务端推送信息）的处理。
 
 
-### Dialog Systems
+### Natural Language Understanding Tools
 
 * [api-ai-ruby](https://github.com/api-ai/api-ai-ruby) - A Ruby SDK to the https://api.ai natural language processing service
 * [expando](https://github.com/expando-lang/expando) - A translation language for defining user utterance examples in conversational interfaces (for [Api.ai](https://api.ai) and similars).
@@ -102,9 +105,10 @@ Client/server libraries to various 3rd party voice-based devices APIs.
 * [alexa-rubykit](https://github.com/damianFC/alexa-rubykit) - Amazon Echo Alexa's App Kit Ruby Implementation
 * [alexa-skill](https://github.com/skierkowski/alexa-skill) - A Ruby based DSL to create new Alexa Skills
 * [alexa_skills_ruby](https://github.com/DanElbert/alexa_skills_ruby) - Simple library to interface with the Alexa Skills Kit
+* [Amazon Lex](https://aws.amazon.com/lex/) - Conversational interfaces for your applications. Powered by the same deep learning technologies as Alexa
 
-#### Google Home
-Coming soon (December 2016, see: https://developers.google.com/actions/)
+#### Actions on Google
+* [Actions on Google](https://developers.google.com/actions/develop/conversation) - Conversation Actions help you fulfill user requests by letting you have a two-way dialog with users
 
 
 ## Books
@@ -134,7 +138,10 @@ Bitext alignment is the process of aligning two parallel documents on a segment 
 ## Chatbot
 
 * [chatterbot](https://github.com/muffinista/chatterbot) - A straightforward ruby-based Twitter Bot Framework, using OAuth to authenticate
+* [JeffBot](https://github.com/ARMmaster17/JeffBot) - (Yet another) comical and extensible chat bot
 * [Lita](https://github.com/jimmycuadra/lita) - Lita is a chat bot written in Ruby with persistent storage provided by Redis
+* [MegaHAL](https://github.com/jasonhutchens/megahal) - MegaHAL is a learning chatterbot
+* [Markov-chain-bot-module](https://github.com/LavirtheWhiolet/markov-chain-bot-module) - A chat bot utilizing Markov chains. It speaks Russian and English
 
 ## Classification
 
@@ -157,9 +164,12 @@ Classification aims to assign a document or piece of text to one or more classes
 * [Chronic](https://github.com/mojombo/chronic) - a pure Ruby natural language date parser
 * [Chronic Between](https://github.com/jrobertson/chronic_between) - a simple Ruby natural language parser for date and time ranges
 * [Chronic Duration](https://github.com/hpoydar/chronic_duration) - a simple Ruby natural language parser for elapsed time
+* [dotiw](https://github.com/radar/dotiw) - Better distance of time in words for Rails http://ryanbigg.com 
 * [Kronic](https://github.com/xaviershay/kronic) - a dirt simple library for parsing and formatting human readable dates
 * [Nickel](https://github.com/iainbeeston/nickel) - extracts date, time, and message information from naturally worded text
 * [Tickle](https://github.com/yb66/tickle) - a natural language parser for recurring events
+* [time_ago_in_words](https://github.com/elgalu/time_ago_in_words) - Humanize elapsed time from some Time instance to Time.now
+* [time-lord](https://github.com/krainboltgreene/time-lord) - adds extra functionality to the time class.
 
 
 ## Emoji
@@ -189,6 +199,11 @@ Classification aims to assign a document or piece of text to one or more classes
 
 * [Detect Language API Client](https://github.com/detectlanguage/detectlanguage-ruby) - detects language of given text and returns detected language codes and scores
 * [whatlanguage](https://github.com/peterc/whatlanguage) - a language detection library for Ruby that uses bloom filters for speed
+
+## Language Localization
+
+* [fast_gettext](https://github.com/grosser/fast_gettext) - Ruby GetText, but 3.5x faster + 560x less memory + simple + clean namespace + threadsave + extendable + multiple backends + Rails3 ready
+* [ruby-gettext](https://github.com/ruby-gettext/gettext) - pure Ruby Localization(L10n) library and tool which is modeled after the GNU gettext package
 
 ## Lexical Databases and Ontologies
 Lexical databases, knowledge-base common sense, multilingual lexicalized semantic networks and ontologies
@@ -221,13 +236,15 @@ Lexical databases, knowledge-base common sense, multilingual lexicalized semanti
 * [termit](https://github.com/pawurb/termit) - Google Translate with speech synthesis in your terminal as ruby gem
 
 ## Miscellaneous
-
+* [Abbrev](http://ruby-doc.org/stdlib-2.0.0/libdoc/abbrev/rdoc/Abbrev.html) - Calculates the set of unique abbreviations for a given set of strings
 * [calyx](https://github.com/maetl/calyx) - A Ruby library for generating text with declarative recursive grammars
 * [dialable](https://github.com/chorn/dialable) - A Ruby gem that provides parsing and output of North American Numbering Plan (NANP) phone numbers, and includes location & time zones
 * [gibber](https://github.com/timonv/gibber) - Gibber replaces text with nonsensical latin with a maximum size difference of +/- 30%
 * [hiatus](https://github.com/ahanba/hiatus) - a localization QA tool
 * [language_filter](https://github.com/chrisvfritz/language_filter) - a Ruby gem to detect and optionally filter multiple categories of language
 * [Naturally](https://github.com/dogweather/naturally) - Natural (version number) sorting with support for legal document numbering, college course codes, and Unicode
+* [RLTK](https://github.com/chriswailes/RLTK) - The Ruby Language Toolkit http://chriswailes.github.io/RLTK/
+* [Shellwords](http://ruby-doc.org/stdlib-2.0.0/libdoc/shellwords/rdoc/Shellwords.html) - Manipulates strings like the UNIX Bourne shell
 * [sort_alphabetical](https://github.com/grosser/sort_alphabetical) -  sort UTF8 Strings alphabetical via Enumerable extension
 * [spintax_parser](https://github.com/flintinatux/spintax_parser) - A mixin to parse "spintax", a text format used for automated article generation. Can handle nested spintax.
 * [stringex](https://github.com/rsl/stringex) - some [hopefully] useful extensions to Ruby’s String class
@@ -259,6 +276,11 @@ The following are libraries that integrate multiple NLP tools or functionality.
 * [ngram](https://github.com/tkellen/ruby-ngram) - break words and phrases into ngrams
 * [raingrams](https://github.com/postmodern/raingrams) - a flexible and general-purpose ngrams library written in Ruby
 
+## Numbers
+* [humanize](https://github.com/radar/humanize) - Takes your numbers and makes them *fancy*
+* [numbers_and_words](https://github.com/kslazarev/numbers_and_words) - convert numbers to words using I18N
+* [numbers_in_words](https://github.com/markburns/numbers_in_words) -  to convert numbers into English words and vice versa
+
 ## Parsers
 
 A natural language parser is a program that works out the grammatical structure of sentences, for instance, which groups of words go together (as "phrases") and which words are the subject or object of a verb.
@@ -273,6 +295,7 @@ A natural language parser is a program that works out the grammatical structure 
 * [engtagger](https://github.com/yohasebe/engtagger) - English Part-of-Speech Tagger Library; a Ruby port of Lingua::EN::Tagger
 * [rbtagger](http://rbtagger.rubyforge.org/) - a simple ruby rule-based part of speech tagger
 * [TreeTagger for Ruby](https://github.com/LeFnord/rstt) - Ruby based wrapper for the TreeTagger by Helmut Schmid
+* [treetagger-ruby](https://github.com/arbox/treetagger-ruby) - The Ruby based wrapper for the TreeTagger by Helmut Schmid
 
 ## Readability
 
@@ -302,6 +325,20 @@ A natural language parser is a program that works out the grammatical structure 
 * *Natural Language Processing in Ruby* [[slides](https://speakerdeck.com/brandonblack/natural-language-processing-in-ruby) | [video](http://confreaks.tv/videos/railsconf2013-natural-language-processing-with-ruby)] - [Brandon Black](https://github.com/brandonblack) (2013)
 * *Natural Language Processing with Ruby: n-grams* [[tutorial](http://www.sitepoint.com/natural-language-processing-ruby-n-grams/)] - [Nathan Kleyn](https://github.com/nathankleyn) (2013)
 * *A Tour Through Random Ruby* [[tutorial](http://www.sitepoint.com/tour-random-ruby/)] - Robert Qualls (2013)
+
+## Sentences generation
+
+* [gabbler](https://github.com/michaeldv/gabbler) - Gab-bler (noun) - rapid, unintelligible talk
+* [faker](https://github.com/stympy/faker) - A library for generating fake data such as names, addresses, and phone numbers
+* [kusari](https://github.com/takuti/kusari) - 🔗 Japanese random sentence generator based on Markov chain
+* [literate_randomizer](https://github.com/imikimi/literate_randomizer) - Using Markov chains, this generates near-english prose.
+* [markov-sentence-generator](https://github.com/hrs/markov-sentence-generator) - Generates a random, locally-correct sentence using textual input and a Markov model
+* [marky_markov](https://github.com/zolrath/marky_markov) - Markov Chain Generator 
+* [poem-generator](https://github.com/mindreframer/poem-generator) - A generator for gothic poems 
+* [poetry](https://github.com/adimichele/poetry - poetry generator
+* [pwqgen.rb](https://github.com/iphoting/pwqgen.rb) -  Ruby implementation of passwdqc's pwqgen, a random pronouncable password generator
+* [ramble](https://github.com/saaadhu/ramble) - library for generating sentences from a yacc grammar
+* [token_phrase](https://github.com/genericsteele/token_phrase) - A token phrase generator
 
 ## Sentence Segmentation
 
@@ -360,6 +397,8 @@ Automatic summarization is the process of reducing a text document with a comput
 * [Going the Distance](https://github.com/schneems/going_the_distance) - contains scripts that do various distance calculations
 * [hotwater](https://github.com/colinsurprenant/hotwater) - Fast Ruby FFI string edit distance algorithms
 * [levenshtein-ffi](https://github.com/dbalatero/levenshtein-ffi) - fast string edit distance computation, using the Damerau-Levenshtein algorithm
+* [soundex](https://github.com/mindaslab/soundex) - A soundex function coded in Ruby
+* [text](https://github.com/threedaymonk/text) - Collection of text algorithms
 * [TF-IDF](https://github.com/reddavis/TF-IDF) - Term Frequency - Inverse Document Frequency in Ruby
 * [tf-idf-similarity](https://github.com/jpmckinney/tf-idf-similarity) - calculate the similarity between texts using tf*idf
 

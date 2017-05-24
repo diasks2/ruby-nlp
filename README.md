@@ -357,6 +357,7 @@ Stemming is the term used in linguistic morphology and information retrieval to 
 
 * [Greek stemmer](https://github.com/skroutz/greek_stemmer) - a Greek stemmer
 * [Ruby-Stemmer](https://github.com/aurelian/ruby-stemmer) - Ruby-Stemmer exposes the SnowBall API to Ruby
+* [Sastrawi](https://github.com/meisyal/sastrawi-ruby) - Ruby bindings for Sastrawi, a library which allows you to stem words in Bahasa Indonesia
 * [Turkish stemmer](https://github.com/skroutz/turkish_stemmer) - a Turkish stemmer
 * [uea-stemmer](https://github.com/ealdent/uea-stemmer) - a conservative stemmer for search and indexing
 

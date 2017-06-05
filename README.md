@@ -194,6 +194,7 @@ Classification aims to assign a document or piece of text to one or more classes
 
 * [Detect Language API Client](https://github.com/detectlanguage/detectlanguage-ruby) - detects language of given text and returns detected language codes and scores
 * [whatlanguage](https://github.com/peterc/whatlanguage) - a language detection library for Ruby that uses bloom filters for speed
+* [Compact Language Detection](https://github.com/jtoy/cld) - blazing-fast language detection for Ruby provided by Google Chrome's Compact Language Detector
 
 ## Language Localization
 

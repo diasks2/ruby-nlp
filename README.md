@@ -105,6 +105,7 @@ Client/server libraries to various 3rd party voice-based devices APIs.
 * [alexa-rubykit](https://github.com/damianFC/alexa-rubykit) - Amazon Echo Alexa's App Kit Ruby Implementation
 * [alexa-skill](https://github.com/skierkowski/alexa-skill) - A Ruby based DSL to create new Alexa Skills
 * [alexa_skills_ruby](https://github.com/DanElbert/alexa_skills_ruby) - Simple library to interface with the Alexa Skills Kit
+* [alexa-ruby](https://github.com/mulev/alexa-ruby) - Ruby toolkit for Amazon Alexa service
 
 ## Books
 

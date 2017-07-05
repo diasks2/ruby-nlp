@@ -102,10 +102,10 @@ Client/server libraries to various 3rd party voice-based devices APIs.
 #### Amazon Echo Alexa skills
 * [alexa-home](https://github.com/zachfeldman/alexa-home) - Using Amazon Echo to control the home! 
 * [Alexa-Hue](https://github.com/sarkonovich/Alexa-Hue) - Control Hue Lights with Alexa
+* [alexa-ruby](https://github.com/mulev/alexa-ruby) - Ruby toolkit for Amazon Alexa service
 * [alexa-rubykit](https://github.com/damianFC/alexa-rubykit) - Amazon Echo Alexa's App Kit Ruby Implementation
 * [alexa-skill](https://github.com/skierkowski/alexa-skill) - A Ruby based DSL to create new Alexa Skills
 * [alexa_skills_ruby](https://github.com/DanElbert/alexa_skills_ruby) - Simple library to interface with the Alexa Skills Kit
-* [alexa-ruby](https://github.com/mulev/alexa-ruby) - Ruby toolkit for Amazon Alexa service
 
 ## Books
 

@@ -92,7 +92,7 @@ Client/server libraries to various 3rd party instant messengers chat bots APIs.
 
 ### Natural Language Understanding Tools
 
-* [api-ai-ruby](https://github.com/api-ai/api-ai-ruby) - A Ruby SDK to the https://api.ai natural language processing service
+* [dialogflow-ruby-client](https://github.com/dialogflow/dialogflow-ruby-client) - A Ruby SDK to the https://dialogflow.com natural language processing service
 * [expando](https://github.com/expando-lang/expando) - A translation language for defining user utterance examples in conversational interfaces (for [Api.ai](https://api.ai) and similars).
 * [wit-ruby](https://github.com/wit-ai/wit-ruby) - Easy interface for wit.ai natural language parsing
 
@@ -138,6 +138,7 @@ Bitext alignment is the process of aligning two parallel documents on a segment 
 * [Lita](https://github.com/jimmycuadra/lita) - Lita is a chat bot written in Ruby with persistent storage provided by Redis
 * [MegaHAL](https://github.com/jasonhutchens/megahal) - MegaHAL is a learning chatterbot
 * [Markov-chain-bot-module](https://github.com/LavirtheWhiolet/markov-chain-bot-module) - A chat bot utilizing Markov chains. It speaks Russian and English
+* [stealth](https://github.com/hellostealth/stealth) - An open source Ruby framework for conversational voice and text chatbots
 
 ## Classification
 

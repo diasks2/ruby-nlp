@@ -93,7 +93,7 @@ Client/server libraries to various 3rd party instant messengers chat bots APIs.
 ### Natural Language Understanding Tools
 
 * [dialogflow-ruby-client](https://github.com/dialogflow/dialogflow-ruby-client) - A Ruby SDK to the https://dialogflow.com natural language processing service
-* [expando](https://github.com/expando-lang/expando) - A translation language for defining user utterance examples in conversational interfaces (for [Api.ai](https://api.ai) and similars).
+* [expando](https://github.com/expando-lang/expando) - A translation language for defining user utterance examples in conversational interfaces (for [dialogflow](https://dialogflow.com) and similars).
 * [wit-ruby](https://github.com/wit-ai/wit-ruby) - Easy interface for wit.ai natural language parsing
 
 ### Voice-based devices bots
@@ -226,6 +226,7 @@ Lexical databases, knowledge-base common sense, multilingual lexicalized semanti
 * [rb-libsvm](https://github.com/febeling/rb-libsvm) - implementation of SVM, a machine learning and classification algorithm
 * [RubyFann](https://github.com/tangledpath/ruby-fann) - a ruby gem that binds to FANN (Fast Artificial Neural Network) from within a ruby/rails environment
 * [tensorflow.rb](https://github.com/somaticio/tensorflow.rb) - tensorflow for ruby
+* [tensor_stream](https://github.com/jedld/tensor_stream) - A ground-up and standalone reimplementation of TensorFlow for ruby.
 
 ## Machine Translation
 

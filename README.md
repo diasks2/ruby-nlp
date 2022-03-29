@@ -45,7 +45,7 @@ A collection of Natural Language Processing (NLP) Ruby libraries, tools and soft
 
 ## APIs
 
-### 3rd party NLP services 
+### 3rd party NLP services
 Client libraries to various 3rd party NLP API services.
 
 * [alchemy_api](https://github.com/dbalatero/alchemy_api) - provides a client API library for AlchemyAPI's NLP services
@@ -61,14 +61,14 @@ Client/server libraries to various 3rd party instant messengers chat bots APIs.
 
 #### Facebook Messenger
 * [botstack](https://github.com/davidmann4/botstack) - rapid FB Chatbot development with ruby on rails
-* [facebook-messenger](https://github.com/hyperoslo/facebook-messenger) - Definitely the best Ruby client for Bots on Messenger  
+* [facebook-messenger](https://github.com/hyperoslo/facebook-messenger) - Definitely the best Ruby client for Bots on Messenger
 * [messenger-ruby](https://github.com/netguru/messenger-ruby) - A simple library for supporting implementation of Facebook Messenger Bot in Ruby on Rails
 
 #### Kik
-* [kik](https://github.com/muaad/kik) - Build www.Kik.com bots in Ruby   
+* [kik](https://github.com/muaad/kik) - Build www.Kik.com bots in Ruby
 
-#### Microsoft Bot Framework (Skype) 
-* [BotBuilder](https://dev.botframework.com/) - REST APIs (for Skype and others instant messaging apps) 
+#### Microsoft Bot Framework (Skype)
+* [BotBuilder](https://dev.botframework.com/) - REST APIs (for Skype and others instant messaging apps)
 * [botframework-ruby](https://github.com/tachyons/botframework-ruby) - Microsoft Bot Framework ruby client
 
 #### Slack
@@ -100,7 +100,7 @@ Client/server libraries to various 3rd party instant messengers chat bots APIs.
 Client/server libraries to various 3rd party voice-based devices APIs.
 
 #### Amazon Echo Alexa skills
-* [alexa-home](https://github.com/zachfeldman/alexa-home) - Using Amazon Echo to control the home! 
+* [alexa-home](https://github.com/zachfeldman/alexa-home) - Using Amazon Echo to control the home!
 * [Alexa-Hue](https://github.com/sarkonovich/Alexa-Hue) - Control Hue Lights with Alexa
 * [alexa-ruby](https://github.com/mulev/alexa-ruby) - Ruby toolkit for Amazon Alexa service
 * [alexa-rubykit](https://github.com/damianFC/alexa-rubykit) - Amazon Echo Alexa's App Kit Ruby Implementation
@@ -146,9 +146,9 @@ Classification aims to assign a document or piece of text to one or more classes
 
 * [Classifier](https://github.com/cardmagic/classifier) - a general module to allow Bayesian and other types of classifications
 * [classifier-reborn](https://github.com/jekyll/classifier-reborn) - (a fork of cardmagic/classifier) a general classifier module to allow Bayesian and other types of classifications
+* [fastText Ruby](https://github.com/ankane/fasttext) - efficient text classification and representation learning - for Ruby
 * [Latent Dirichlet Allocation](https://github.com/ealdent/lda-ruby) - used to automatically cluster documents into topics
 * [liblinear-ruby-swig](https://github.com/tomz/liblinear-ruby-swig) - Ruby interface to LIBLINEAR (much more efficient than LIBSVM for text classification and other large linear classifications)
-* [fasttext](https://github.com/ankane/fasttext) - efficient text classification and representation learning - for Ruby
 * [linnaeus](https://github.com/djcp/linnaeus) - a redis-backed Bayesian classifier
 * [maxent_string_classifier](https://github.com/mccraigmccraig/maxent_string_classifier) - a JRuby maximum entropy classifier for string data, based on the OpenNLP Maxent framework
 * [Naive-Bayes](https://github.com/reddavis/Naive-Bayes) - simple Naive Bayes classifier
@@ -162,7 +162,7 @@ Classification aims to assign a document or piece of text to one or more classes
 * [Chronic](https://github.com/mojombo/chronic) - a pure Ruby natural language date parser
 * [Chronic Between](https://github.com/jrobertson/chronic_between) - a simple Ruby natural language parser for date and time ranges
 * [Chronic Duration](https://github.com/hpoydar/chronic_duration) - a simple Ruby natural language parser for elapsed time
-* [dotiw](https://github.com/radar/dotiw) - Better distance of time in words for Rails http://ryanbigg.com 
+* [dotiw](https://github.com/radar/dotiw) - Better distance of time in words for Rails http://ryanbigg.com
 * [Kronic](https://github.com/xaviershay/kronic) - a dirt simple library for parsing and formatting human readable dates
 * [Nickel](https://github.com/iainbeeston/nickel) - extracts date, time, and message information from naturally worded text
 * [Tickle](https://github.com/yb66/tickle) - a natural language parser for recurring events
@@ -208,7 +208,7 @@ Classification aims to assign a document or piece of text to one or more classes
 Lexical databases, knowledge-base common sense, multilingual lexicalized semantic networks and ontologies
 
 ### BabelNet
-* [BabelNet API client](http://babelnet.org/guide) - API (with Ruby examples) for [BabelNet](http://babelnet.org/),  multilingual lexicalized semantic network and ontology 
+* [BabelNet API client](http://babelnet.org/guide) - API (with Ruby examples) for [BabelNet](http://babelnet.org/),  multilingual lexicalized semantic network and ontology
 
 ### ConceptNet
 * [ConceptNet API](https://github.com/commonsense/conceptnet5/wiki/API) - REST API for [ConceptNet](https://github.com/commonsense/conceptnet5/wiki)
@@ -333,8 +333,8 @@ A natural language parser is a program that works out the grammatical structure 
 * [kusari](https://github.com/takuti/kusari) - Japanese random sentence generator based on Markov chain
 * [literate_randomizer](https://github.com/imikimi/literate_randomizer) - Using Markov chains, this generates near-english prose.
 * [markov-sentence-generator](https://github.com/hrs/markov-sentence-generator) - Generates a random, locally-correct sentence using textual input and a Markov model
-* [marky_markov](https://github.com/zolrath/marky_markov) - Markov Chain Generator 
-* [poem-generator](https://github.com/mindreframer/poem-generator) - A generator for gothic poems 
+* [marky_markov](https://github.com/zolrath/marky_markov) - Markov Chain Generator
+* [poem-generator](https://github.com/mindreframer/poem-generator) - A generator for gothic poems
 * [poetry](https://github.com/adimichele/poetry) - poetry generator
 * [pwqgen.rb](https://github.com/iphoting/pwqgen.rb) -  Ruby implementation of passwdqc's pwqgen, a random pronouncable password generator
 * [ramble](https://github.com/saaadhu/ramble) - library for generating sentences from a yacc grammar

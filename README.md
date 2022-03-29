@@ -148,6 +148,7 @@ Classification aims to assign a document or piece of text to one or more classes
 * [classifier-reborn](https://github.com/jekyll/classifier-reborn) - (a fork of cardmagic/classifier) a general classifier module to allow Bayesian and other types of classifications
 * [Latent Dirichlet Allocation](https://github.com/ealdent/lda-ruby) - used to automatically cluster documents into topics
 * [liblinear-ruby-swig](https://github.com/tomz/liblinear-ruby-swig) - Ruby interface to LIBLINEAR (much more efficient than LIBSVM for text classification and other large linear classifications)
+* [fasttext](https://github.com/ankane/fasttext) - efficient text classification and representation learning - for Ruby
 * [linnaeus](https://github.com/djcp/linnaeus) - a redis-backed Bayesian classifier
 * [maxent_string_classifier](https://github.com/mccraigmccraig/maxent_string_classifier) - a JRuby maximum entropy classifier for string data, based on the OpenNLP Maxent framework
 * [Naive-Bayes](https://github.com/reddavis/Naive-Bayes) - simple Naive Bayes classifier

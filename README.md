@@ -244,6 +244,7 @@ Lexical databases, knowledge-base common sense, multilingual lexicalized semanti
 * [language_filter](https://github.com/chrisvfritz/language_filter) - a Ruby gem to detect and optionally filter multiple categories of language
 * [Naturally](https://github.com/dogweather/naturally) - Natural (version number) sorting with support for legal document numbering, college course codes, and Unicode
 * [RLTK](https://github.com/chriswailes/RLTK) - The Ruby Language Toolkit http://chriswailes.github.io/RLTK/
+* [ruby-spacy](https://github.com/yohasebe/ruby-spacy) - A wrapper module for using [spaCy](https://spacy.io/) natural language processing library from the Ruby programming language via [PyCall](https://github.com/mrkn/pycall.rb)
 * [Shellwords](http://ruby-doc.org/stdlib-2.0.0/libdoc/shellwords/rdoc/Shellwords.html) - Manipulates strings like the UNIX Bourne shell
 * [sort_alphabetical](https://github.com/grosser/sort_alphabetical) -  sort UTF8 Strings alphabetical via Enumerable extension
 * [spintax_parser](https://github.com/flintinatux/spintax_parser) - A mixin to parse "spintax", a text format used for automated article generation. Can handle nested spintax.

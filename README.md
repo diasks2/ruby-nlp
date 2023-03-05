@@ -39,6 +39,7 @@ A collection of Natural Language Processing (NLP) Ruby libraries, tools and soft
 * [Summarization](#summarization)
 * [Text Extraction](#text-extraction)
 * [Text Similarity](#text-similarity)
+* [Text Splitting](#text-splitting)
 * [Text-to-Speech](#text-to-speech)
 * [Tokenizers](#tokenizers)
 * [Word Count](#word-count)
@@ -403,6 +404,10 @@ Automatic summarization is the process of reducing a text document with a comput
 * [text](https://github.com/threedaymonk/text) - Collection of text algorithms
 * [TF-IDF](https://github.com/reddavis/TF-IDF) - Term Frequency - Inverse Document Frequency in Ruby
 * [tf-idf-similarity](https://github.com/jpmckinney/tf-idf-similarity) - calculate the similarity between texts using tf*idf
+
+## Text Splitting
+
+* [text_splitters](https://github.com/ghiculescu/text_splitters) - Port of Langchain text splitters
 
 ## Text-to-Speech
 
